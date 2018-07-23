@@ -1,16 +1,16 @@
-# Unit 1: Variables, expressions, and real-number operations
+# Unit !!!!: !!!!
 
 ## Unit Overview
 
 **Content area:** Introduction to Algebra
 
-**Unit title:** 
+**Unit title:** !!!!!
 
 **Unit time frame:** !!!TODO!!!
 
 **Target Course/Grade Level:** 9
 
-**Unit Summary:** 
+**Unit Summary:** !!!!!
 
 ## New Jersey Student Learning Standards
 
@@ -18,9 +18,15 @@
 
 #### Standards for Mathematical Practice
 
+!!!!!!!!
+
 #### High School — Number and Quantity
 
+!!!!!!!
+
 #### High School — Algebra
+
+!!!!!!
 
 ### English Language Arts Companion Standards (Grade 9-10)
 
@@ -197,23 +203,27 @@ _Allow a student to..._
 
 ### Unit essential questions
 
+!!!!!!
+
 ### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
+!!!!!!
 
+- Vocabulary including
 
 ### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
-
+!!!!!!
 
 ### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
-
+!!!!!!
 
 ## Evidence of learning
 
@@ -223,7 +233,7 @@ _Students will be able to..._
 - End of chapter assessments
 - Teacher designed tests
 - Alternate assessment
-    - Performance task
+  - Performance task
 
 ### Formative assessments
 
@@ -244,7 +254,6 @@ _Students will be able to..._
 |-------|:----------------:|
 |TOPIC|???|
 
-
 ## Teacher notes
 
 ### Unit resources
@@ -252,8 +261,8 @@ _Students will be able to..._
 - Prentice Hall Algebra I © 2011
 - Online adaptive math practice
 - 21st Century Skills
-    - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
-    - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
+  - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
+  - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
 ### Technology integrations
 

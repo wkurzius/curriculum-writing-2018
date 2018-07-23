@@ -20,6 +20,14 @@ The unit ends with rates, ratios, proportions, and percents with a focus on conv
 
 #### Standards for Mathematical Practice
 
+**MP1** Make sense of problems and persevere in solving them.
+
+**MP2** Reason abstractly and quantitatively.
+
+**MP4** Model with mathematics.
+
+**MP6** Attend to precision.
+
 #### High School — Number and Quantity
 
 ##### Quantities
@@ -36,7 +44,7 @@ The unit ends with rates, ratios, proportions, and percents with a focus on conv
 
 **A-CED.A.4** Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations. _For example, rearrange Ohm’s law V = IR to highlight resistance R._
 
-Reasoning with Equations and Inequalities 
+##### Reasoning with Equations and Inequalities
 
 **A-REI.A.1** Explain each step in solving a simple equation as following from the equality of numbers asserted at the previous step, starting from the assumption that the original equation has a solution. Construct a viable argument to justify a solution method.
 

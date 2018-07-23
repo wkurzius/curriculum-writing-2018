@@ -1,16 +1,16 @@
-# Unit 3: Variables, expressions, and real-number operations
+# Unit 3: Solving inequalities
 
 ## Unit Overview
 
 **Content area:** Introduction to Algebra
 
-**Unit title:** 
+**Unit title:** Solving inequalties
 
 **Unit time frame:** !!!TODO!!!
 
 **Target Course/Grade Level:** 9
 
-**Unit Summary:** 
+**Unit Summary:** This unit focuses on students solving inequalities and visualizing/graphing them on the number line. The unit then introduces sets before moving into compound inequalities, absolute value equations and inequalities, and finally the union and intersection of sets.
 
 ## New Jersey Student Learning Standards
 
@@ -18,9 +18,23 @@
 
 #### Standards for Mathematical Practice
 
-#### High School — Number and Quantity
+**MP2** Reason abstractly and quantitatively.
+
+**MP4** Model with mathematics.
 
 #### High School — Algebra
+
+##### Seeing structure in expressions
+
+**A-SSE.A.1b** Interpret complicated expressions by viewing one or more of their parts as a single entity. _For example, interpret P(1+r)^n as the product of P and a factor not depending on P._
+
+##### Creating equations
+
+**A-CED.A.1** Create equations and inequalities in one variable and use them to solve problems. _Include equations arising from linear and quadratic functions, and simple rational and exponential functions._
+
+##### Reasoning with equations and inequalities
+
+**A-REI.B.3** Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters.
 
 ### English Language Arts Companion Standards (Grade 9-10)
 
@@ -197,23 +211,41 @@ _Allow a student to..._
 
 ### Unit essential questions
 
+- How do you represent relationships between quantities that are not equal?
+- Can inequalities that appear to be different be equivalent?
+- How can you solve inequalities?
+
 ### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
-
+- Just as properties of equality can be used to solve equations, properties of inequality can be used to solve inequalities (including multi-step and compound inequalities).
+- Just as equivalent equations can be used to solve equations, equivalent inequalities can be used to solve inequalities (including multi-step and compound inequalities).
+- Just as equations can be solved using the properties of equality, inequalities (including multi-step and compound inequalities) can be solved using the properties of inequality.
+- Absolute value equations and inequalities can be solved by first isolating the absolute value expression, if necessary, then writing an equivalent pair of linear equations or inequalities.
 
 ### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
-
+- Vocabulary including complement of a set, compound inequality, disjoint sets, empty set, intersection, interval notation, roster form, set-builder notation, union, and universal set.
+- An inequality is a mathematical sentence that uses an inequality symbol to compare the values of two expressions. Inequalities can be represented with symbols. Their solutions can be represented on a number line.
+- An equivalent pair of linear equations or inequalities can be used to solve absolute value equations and inequalities.
 
 ### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
-
+- Write, graph, and identify solutions of inequalities.
+- Use addition or subtraction to solve inequalities.
+- Use multiplication or division to solve inequalities.
+- Solve multi-step inequalities.
+- Write sets and identify subsets.
+- Find the complement of a set.
+- Solve and graph inequalities containing the word _and_
+- Solve and graph inequalities containing the word _or_
+- Solve equations and inequalities involving absolute value
+- Find the union and intersection of sets.
 
 ## Evidence of learning
 
@@ -223,7 +255,7 @@ _Students will be able to..._
 - End of chapter assessments
 - Teacher designed tests
 - Alternate assessment
-    - Performance task
+  - Performance task
 
 ### Formative assessments
 
@@ -242,8 +274,14 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
-
+|Inequalities and their graphs|???|
+|Solving inequalities using addition or subtraction|???|
+|Solving inequalities using multiplication or division|???|
+|Solving multi-step inequalities|???|
+|Working with sets|???|
+|Compound inequalities|???|
+|Absolute value equations and inequalities|???|
+|Unions and intersections of sets|???|
 
 ## Teacher notes
 
@@ -252,8 +290,8 @@ _Students will be able to..._
 - Prentice Hall Algebra I © 2011
 - Online adaptive math practice
 - 21st Century Skills
-    - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
-    - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
+  - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
+  - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
 ### Technology integrations
 

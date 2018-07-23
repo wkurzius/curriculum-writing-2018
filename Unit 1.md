@@ -18,15 +18,15 @@
 
 #### Standards for Mathematical Practice
 
-**CCSS.MATH.PRACTICE.MP2** Reason abstractly and quantitatively.
+**MP2** Reason abstractly and quantitatively.
 
-**CCSS.MATH.PRACTICE.MP4** Model with mathematics.
+**MP4** Model with mathematics.
 
-**CCSS.MATH.PRACTICE.MP7** Look for and make use of structure.
+**MP7** Look for and make use of structure.
 
 #### High School — Number and Quantity
 
-##### The Real Number System 
+##### The Real Number System
 
 **N-RN.B.3** Explain why the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational.
 
@@ -271,7 +271,7 @@ _Students will be able to..._
 - End of chapter assessments
 - Teacher designed tests
 - Alternate assessment
-    - Performance task
+  - Performance task
 
 ### Formative assessments
 
@@ -307,8 +307,8 @@ _Students will be able to..._
 - Prentice Hall Algebra I © 2011
 - Online adaptive math practice
 - 21st Century Skills
-    - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
-    - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
+  - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
+  - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
 ### Technology integrations
 
