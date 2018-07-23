@@ -6,7 +6,7 @@
 
 **Unit title:** Solving inequalties
 
-**Unit time frame:** 5 weeks
+**Unit time frame:** 30 days
 
 **Target Course/Grade Level:** 9
 
@@ -276,12 +276,12 @@ _Students will be able to..._
 |-------|:----------------:|
 |Inequalities and their graphs                        |2|
 |Solving inequalities using addition or subtraction   |2|
-|Solving inequalities using multiplication or division|3|
-|Solving multi-step inequalities                      |3|
+|Solving inequalities using multiplication or division|4|
+|Solving multi-step inequalities                      |4|
 |Working with sets                                    |2|
-|Compound inequalities                                |3|
-|Absolute value equations and inequalities            |3|
-|Unions and intersections of sets                     |3|
+|Compound inequalities                                |4|
+|Absolute value equations and inequalities            |4|
+|Unions and intersections of sets                     |4|
 
 ## Teacher notes
 

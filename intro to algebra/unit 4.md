@@ -6,7 +6,7 @@
 
 **Unit title:** Introduction to functions
 
-**Unit time frame:** 4 weeks
+**Unit time frame:** 22 days
 
 **Target Course/Grade Level:** 9
 
@@ -301,8 +301,8 @@ _Students will be able to..._
 |Patterns and nonlinear functions     |2|
 |Graphing a function rule             |2|
 |Writing a function rule              |2|
-|Formalizing relations and functions  |3|
-|Arithmetic sequences                 |3|
+|Formalizing relations and functions  |4|
+|Arithmetic sequences                 |4|
 
 ## Teacher notes
 

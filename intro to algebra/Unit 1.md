@@ -6,7 +6,7 @@
 
 **Unit title:** Variables, expressions, and real-number operations
 
-**Unit time frame:** 5 weeks
+**Unit time frame:** 26 days
 
 **Target Course/Grade Level:** 9
 
@@ -296,8 +296,8 @@ _Students will be able to..._
 |Properties of real numbers                    |2|
 |Adding and subtracting real numbers           |2|
 |Multiplying and dividing real numbers         |2|
-|The Distributive Property                     |3|
-|Introduction to equations                     |3|
+|The Distributive Property                     |4|
+|Introduction to equations                     |4|
 |Patterns, equations, and graphs               |2|
 
 ## Teacher notes

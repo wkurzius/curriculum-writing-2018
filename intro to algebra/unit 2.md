@@ -6,7 +6,7 @@
 
 **Unit title:** Solving equations
 
-**Unit time frame:** 6 weeks
+**Unit time frame:** 34 days
 
 **Target Course/Grade Level:** 9
 
@@ -291,15 +291,15 @@ _Students will be able to..._
 | Topic | Timeframe (days) |
 |-------|:----------------:|
 |Solving one-step equations                    |2|
-|Solving two-step equations                    |3|
-|Solving multi-step equations                  |3|
-|Solving equations with variables on both sides|3|
+|Solving two-step equations                    |4|
+|Solving multi-step equations                  |4|
+|Solving equations with variables on both sides|4|
 |Literal equations and formulas                |2|
 |Ratios, rates, and conversions                |2|
 |Solving proportions                           |2|
 |Proportions and similar figures               |2|
-|Percents                                      |3|
-|Change expressed as a percent                 |3|
+|Percents                                      |4|
+|Change expressed as a percent                 |4|
 
 ## Teacher notes
 
