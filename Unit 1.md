@@ -14,13 +14,21 @@
 
 ## New Jersey Student Learning Standards
 
+### New Jersey Student Learning Standards for Mathematics
+
+#### Standards for Mathematical Practice
+
 **CCSS.MATH.PRACTICE.MP2** Reason abstractly and quantitatively.
 
 **CCSS.MATH.PRACTICE.MP4** Model with mathematics.
 
 **CCSS.MATH.PRACTICE.MP7** Look for and make use of structure.
 
+#### High School — Number and Quantity
+
 **N-RN.B.3** Explain why the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational.
+
+#### High School — Algebra
 
 **A-SSE.A.1** Interpret expressions that represent a quantity in terms of its context.
 
@@ -32,17 +40,41 @@
 
 **A-REI.D.10** Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line).
 
-### Reading/Writing Companion Standards
+### English Language Arts Companion Standards (Grade 9-10)
 
-TODO
+**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-### Technology
+**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-TODO
+### Technology — Educational Technology
+
+**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+
+### 21st Century Life and Careers
+
+#### Career Ready Practices
+
+**CRP2** Apply appropriate academic and technical skills.
+
+**CRP4** Communicate clearly and effectively and with reason.
+
+**CRP6** Demonstrate creativity and innovation.
+
+**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+
+**CRP10** Plan education and career paths aligned to personal goals.
+
+**CRP11** Use technology to enhance productivity.
+
+#### Career Awareness, Exploration, and Preparation
+
+**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+
+**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
 
 ## Modifications
 
-### Differentiation for Target Student Groups
+### Differentiation for target student groups
 
 #### English Language Learners
 
@@ -51,7 +83,7 @@ TODO
 - Clarify directions
 - Refer to NJDOE resources
 
-#### Special Education
+#### Special education
 
 - Modifications and accommodations as listed in the student’s IEP
 - Reword and repeat directions as noted in 504 or IEP
@@ -61,19 +93,19 @@ TODO
 - Address individual needs as noted in 504 or IEP
 - Refer to NJDOE resources
 
-#### At-Risk of Failure
+#### At-risk of failure
 
 - Provide extra help sessions
 - Provide peer tutors
 - Refer student to Intervention and Referral for an action plan
 
-#### Gifted Students
+#### Gifted students
 
 - Increase depth of learning
 - Accelerate pace of instruction if applicable
 - Extend scope of topic
 
-### Modifications for Activities
+### Modifications for activities
 
 #### Presentation accommodations
 
@@ -181,33 +213,35 @@ _Allow a student to..._
 
 ## Learning expectations
 
-#### Unit essential questions
+### Unit essential questions
 
 - How can you represent quantities, patterns, and relationships?
 - How are properties related to algebra?
 
-#### Unit enduring understanding (Understanding)
+### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
 - Algebra uses symbols to represent quantities that are unknown or that vary. Mathematical phrases and real-world relationships can be represented using symbols and operations.
-- Powers can be used to shorten the representation of repeated multiplication.
-- When simplifying an expression operations must be performed in the correct order.
 - The definition of a square root can be used to find the exact square roots of some non-negative numbers. The square roots of other non-negative nubers can be approximated.
 - Numbers can be classified by their characteristics. Some types of numbers can be reprsented on the number line.
-- Relationships that are always true for real numbers are called properties, which are rules used to rewrite and compare expressions.
 - Any real numbers can be added or subtracted using a number line model or using rules involving absolute value.
 - The rules for multiplying real numbers are related to the properties of real numbers and the definitions of operations.
 - The distributive property can be used to simplify the product of a number and a sum or difference.
 - An algebraic expression can be simplifued by combining the parts of the expresson that are alike.
-- Equations are used to represent the relationsip between two quantities that have the same value.
 - Sometimes the value of of one quantity can be found if the value of another is known. The relationship between the quantities can be represented in different ways, including tables, equations, and graphs.
 
-#### Unit learning expectations (Knowledge)
+### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
-#### Unit learning expectations (Ability)
+- Vocabulary including absolute value, algebraic expression, base, coefficient, constant, Distributive Property, equation, evaluate, exponent,inequality, integer, irrational number, like terms, natural number, order of operations, perfect square, power, quantity, radical, radicand, rational number, real number, reciprocal, simplify, square root, term, variable, and whole number.
+- When simplifying an expression operations must be performed in the correct order.
+- Powers can be used to shorten the representation of repeated multiplication.
+- Relationships that are always true for real numbers are called properties, which are rules used to rewrite and compare expressions.
+- Equations are used to represent the relationsip between two quantities that have the same value.
+
+### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
