@@ -26,13 +26,19 @@
 
 #### High School — Number and Quantity
 
+##### The Real Number System 
+
 **N-RN.B.3** Explain why the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational.
 
 #### High School — Algebra
 
+##### Seeing Structure in Expressions
+
 **A-SSE.A.1** Interpret expressions that represent a quantity in terms of its context.
 
 **A-SSE.A.1a** Interpret parts of an expression, such as terms, factors, and coefficients
+
+##### Creating Equations
 
 **A-CED.A.1** Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear and quadratic functions, and simple rational and exponential functions.
 
@@ -264,7 +270,8 @@ _Students will be able to..._
 - Extended constructed response
 - End of chapter assessments
 - Teacher designed tests
-- Performance tasks
+- Alternate assessment
+    - Performance task
 
 ### Formative assessments
 
