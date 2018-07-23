@@ -26,7 +26,7 @@
 
 ##### Seeing structure in expressions
 
-**A-SSE.A.1b** Interpret complicated expressions by viewing one or more of their parts as a single entity. _For example, interpret P(1+r)^n as the product of P and a factor not depending on P._
+**A-SSE.A.1b** Interpret complicated expressions by viewing one or more of their parts as a single entity. _For example, interpret P(1+r)ⁿ as the product of P and a factor not depending on P._
 
 ##### Creating equations
 

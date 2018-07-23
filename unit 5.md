@@ -1,16 +1,16 @@
-# Unit !!!!: !!!!
+# Unit 5: Linear functions
 
 ## Unit Overview
 
 **Content area:** Introduction to Algebra
 
-**Unit title:** !!!!!
+**Unit title:** Linear functions
 
 **Unit time frame:** !!!TODO!!!
 
 **Target Course/Grade Level:** 9
 
-**Unit Summary:** !!!!!
+**Unit Summary:** The unit begins with a look at rate of change and slope followed by direct variation. It then moves on to the different forms of linear equations including slope-intercept, point-slope, and standard forms. It follows with determing if lines are parallel or pendicular, then with scatter plots and trend lines and lastly absolute value functions.
 
 ## New Jersey Student Learning Standards
 
@@ -18,15 +18,52 @@
 
 #### Standards for Mathematical Practice
 
-!!!!!!!!
+**MP1** Make sense of problems and persevere in solving them.
+
+**MP2** Reason abstractly and quantitatively.
+
+**MP4** Model with mathematics.
 
 #### High School — Number and Quantity
 
-!!!!!!!
+##### Quantities
+
+**N-Q.A.1** Use units as a way to understand problems and to guide the solution of multi-step problems;
+choose and interpret units consistently in formulas; choose and interpret the scale and the
+origin in graphs and data displays.
+
+**N-Q.A.2** Define appropriate quantities for the purpose of descriptive modeling.
 
 #### High School — Algebra
 
-!!!!!!
+##### Seeing structure in expressions
+
+**A-SSE.A.1a** Interpret parts of an expression, such as terms, factors, and coefficients.
+
+**A-SSE.A.2** Use the structure of an expression to identify ways to rewrite it.
+_For example, see x⁴ – y⁴ as (x²)² – (y²)² , thus recognizing it as a difference of squares that can be factored as (x² – y²)(x² + y²)._
+
+##### Creating equations
+
+**A-CED.A.2** Create equations in two or more variables to represent relationships between quantities;
+graph equations on coordinate axes with labels and scales.
+
+#### High School — Functions
+
+##### Interpreting functions
+
+**F-IF.B.4** For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship.
+_Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
+
+**F-IF.B.6** Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.
+
+**F-IF.C.7a** Graph linear and quadratic functions and show intercepts, maxima, and minima.
+
+**F-IF.C.7b** Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions.
+
+##### Building functions
+
+**F-BF.A.1a** Determine an explicit expression, a recursive process, or steps for calculation from a context.
 
 ### English Language Arts Companion Standards (Grade 9-10)
 
@@ -203,27 +240,45 @@ _Allow a student to..._
 
 ### Unit essential questions
 
-!!!!!!
+- What does the slope of a line indicate about the line?
+- What information does the equation of a line give you?
+- How can you make predctions based on a scatter plot?
 
 ### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
-!!!!!!
+- Ratios can be used to show a realtionship between changing quantities, such as vertical and horizontal change.
+- The relationship between two lines can be determined by comparing theri slopes and y-intercepts.
+- Absolute value equations can be graphed quickly by shifting the graph of y = |x|.
+- Two sets of numerical data can be graphed as ordered pairs. If the two sets of data are related, a line on the graph can be used to estimate or predict values.
 
 ### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- Vocabulary including absolute value function, correlation, direct variation, inverse function, linear equation, line of best fit, opposite reciprocals, parallel lines, perpendicular lines, piecewise function, point-slope form, rate of change, scatter plot, slope, slope-intercept form, standard form, step function, trend line, x-intercept, y-intercept.
+- If the ratio of two variables is constant, then the variables have a special relationship called a direct variation.
+- A line on a graph can be represented by a linear equation. Forms of linear equations include the slope-intercept, point-slope, and standard forms.
 
 ### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
-!!!!!!
+- Find rates of change from tables
+- Find slope.
+- Write and graph an equation of a direct variation.
+- Write linear equations using slope-intercept form.
+- Graph linear equations using slope-intercept form.
+- Write and graph linear equations using point-slope form.
+- Graph linear equations using intercepts.
+- Write linear equations in standard form.
+- Determine whether lines are parallel, perpendicular, or neither.
+- Write equations of parallel lines and perpendicular lines.
+- Write an equation of a trend line and of a line of best fit.
+- Use a trend line and a line of best fit to make predictions.
+- Graph an absolute value function.
+- Translate the graph of an absolute value function.
 
 ## Evidence of learning
 
@@ -252,7 +307,14 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Rate of change and slope|???|
+|Direct variation|???|
+|Slope-intercept form|???|
+|Point-slope form|???|
+|Standard form|???|
+|Parallel and perpendicular lines|???|
+|Scatter plots and trend lines|???|
+|Graphing absolute value functions|???|
 
 ## Teacher notes
 
