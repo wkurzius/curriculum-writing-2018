@@ -6,7 +6,7 @@
 
 **Unit title:** Solving equations
 
-**Unit time frame:** !!!TODO!!!
+**Unit time frame:** 6 weeks
 
 **Target Course/Grade Level:** 9
 
@@ -271,7 +271,7 @@ _Students will be able to..._
 - End of chapter assessments
 - Teacher designed tests
 - Alternate assessment
-    - Performance task
+  - Performance task
 
 ### Formative assessments
 
@@ -290,16 +290,16 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|Solving one-step equations|???|
-|Solving two-step equations|???|
-|Solving multi-step equations|???|
-|Solving equations with variables on both sides|???|
-|Literal equations and formulas|???|
-|Ratios, rates, and conversions|???|
-|Solving proportions|???|
-|Proportions and similar figures|???|
-|Percents|???|
-|Change expressed as a percent|???|
+|Solving one-step equations                    |2|
+|Solving two-step equations                    |3|
+|Solving multi-step equations                  |3|
+|Solving equations with variables on both sides|3|
+|Literal equations and formulas                |2|
+|Ratios, rates, and conversions                |2|
+|Solving proportions                           |2|
+|Proportions and similar figures               |2|
+|Percents                                      |3|
+|Change expressed as a percent                 |3|
 
 ## Teacher notes
 
@@ -308,8 +308,8 @@ _Students will be able to..._
 - Prentice Hall Algebra I © 2011
 - Online adaptive math practice
 - 21st Century Skills
-    - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
-    - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
+  - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
+  - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
 ### Technology integrations
 

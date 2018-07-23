@@ -6,7 +6,7 @@
 
 **Unit title:** Linear functions
 
-**Unit time frame:** !!!TODO!!!
+**Unit time frame:** 5 weeks
 
 **Target Course/Grade Level:** 9
 
@@ -307,14 +307,14 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|Rate of change and slope|???|
-|Direct variation|???|
-|Slope-intercept form|???|
-|Point-slope form|???|
-|Standard form|???|
-|Parallel and perpendicular lines|???|
-|Scatter plots and trend lines|???|
-|Graphing absolute value functions|???|
+|Rate of change and slope         |2|
+|Direct variation                 |2|
+|Slope-intercept form             |3|
+|Point-slope form                 |3|
+|Standard form                    |2|
+|Parallel and perpendicular lines |2|
+|Scatter plots and trend lines    |2|
+|Graphing absolute value functions|3|
 
 ## Teacher notes
 

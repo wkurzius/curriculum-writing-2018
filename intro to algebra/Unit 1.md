@@ -6,7 +6,7 @@
 
 **Unit title:** Variables, expressions, and real-number operations
 
-**Unit time frame:** !!!TODO!!!
+**Unit time frame:** 5 weeks
 
 **Target Course/Grade Level:** 9
 
@@ -290,15 +290,15 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|Variables and expressions|???|
-|Order of operations and evaluating expressions|???|
-|Real numbers and the number line|???|
-|Properties of real numbers|???|
-|Adding and subtracting real numbers|???|
-|Multiplying and dividing real numbers|???|
-|The Distributive Property|???|
-|Introduction to equations|???|
-|Patterns, equations, and graphs|???|
+|Variables and expressions                     |2|
+|Order of operations and evaluating expressions|2|
+|Real numbers and the number line              |2|
+|Properties of real numbers                    |2|
+|Adding and subtracting real numbers           |2|
+|Multiplying and dividing real numbers         |2|
+|The Distributive Property                     |3|
+|Introduction to equations                     |3|
+|Patterns, equations, and graphs               |2|
 
 ## Teacher notes
 
