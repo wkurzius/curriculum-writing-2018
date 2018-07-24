@@ -55,9 +55,7 @@ solution. Construct a viable argument to justify a solution method. Reason about
 solutions may arise.
 
 **A-REI.B.4b** Solve quadratic equations in one variable.
-Solve quadratic equations by inspection (e.g. for _x² = 49_), taking square roots, completing the square, the
-quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the
-quadratic formula gives complex solutions and write them as _a ± bi_ for real numbers _a_ and _b_.
+Solve quadratic equations by inspection (e.g. for _x² = 49_), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as _a ± bi_ for real numbers _a_ and _b_.
 
 **A-REI.C.6** Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on linear equations
 in three variables.

@@ -1,10 +1,10 @@
-# Unit 1: Functions and transformations
+# Unit 6: Polynomials
 
 ## Unit Overview
 
 **Content area:** Algebra 2
 
-**Unit title:** Functions and transformations
+**Unit title:** Polynomials
 
 **Unit time frame:** 20 days
 
@@ -22,9 +22,13 @@
 
 **MP2** Reason abstractly and quantitatively.
 
+**MP3** Construct viable arguments and critique the reasoning of others.
+
 **MP4** Model with mathematics.
 
 **MP5** Use appropriate tools strategically.
+
+**MP6** Attend to precision.
 
 **MP7** Look for and make use of structure.
 
@@ -34,27 +38,46 @@
 
 ##### Quantities
 
-**N-Q.A.2** Define appropriate quantities for the purpose of descriptive modeling.
+**N-Q.A.2**
+
+##### The Complex Number System
 
 #### High School — Algebra
 
+##### Arithmetic with Polynomials and Rational Expressions
+
+**A-APR.B.2**
+Know and apply the Remainder Theorem: For a polynomial _p(x)_ and a number _a_, the remainder on division by _x – a_ is _p(a)_, so _p(a) = 0_ if and only if _(x – a)_ is a factor of _p(x)_.
+
+**A-APR.B.3**
+Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial.
+
+**A-APR.C.4**
+Prove polynomial identities and use them to describe numerical relationships.
+_For example, the difference of two squares; the sum and difference of two cubes; the polynomial identity (x² + y²)² = (x² – y²)² + (2xy)² can be used to generate Pythagorean triples._
+
+**A-APR.D.6**
+Rewrite simple rational expressions in different forms; write _a(x)/b(x)_ in the form _q(x) + r(x)/b(x)_, where _a(x)_, _b(x)_, _q(x)_, and _r(x)_ are polynomials with the degree of _r(x)_ less than the degree of _b(x)_, using inspection, long division, or, for the more complicated examples, a computer algebra system.
+
 ##### Reasoning with Equations and Inequalities
 
-**A-REI.D.11** Explain why the x-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_; find the solutions approximately,
-e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where _f(x)_ and/or _g(x)_ are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.
+**A-REI.B.4b**
+Solve quadratic equations in one variable.
+Solve quadratic equations by inspection (e.g. for _x² = 49_), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as _a ± bi_ for real numbers _a_ and _b_.
 
 #### High School — Functions
 
 ##### Interpretting Functions
 
 **F-IF.B.4**
-For a function that models a relationship between two quantities, interpret key features of graphs and
-tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the
-relationship.
+For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship.
 _Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
 
-**F-IF.B.6** Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a
-specified interval. Estimate the rate of change from a graph.
+**F-IF.C.7c**
+Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior.
+
+**F-IF.C.9** Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).
+_For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum._
 
 ##### Building Functions
 
@@ -62,13 +85,7 @@ specified interval. Estimate the rate of change from a graph.
 Combine standard function types using arithmetic operations.
 _For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model._
 
-**F-BF.B.3** Identify the effect on the graph of replacing _f(x)_ by _f(x) + k_, _k f(x)_, _f(kx)_, and _f(x + k)_ for specific values of
-_k_ (both positive and negative); find the value of _k_ given the graphs. Experiment with cases and illustrate an
-explanation of the effects on the graph using technology.
-_Include recognizing even and odd functions from their graphs and algebraic expressions for them._
-
-**F-BF.B.4a** Solve an equation of the form f(x) = c for a simple function f that has an inverse and write
-an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1) for x ≠ 1._
+##### Linear and Exponential Models
 
 #### High School — Statistics and Probability
 
@@ -251,17 +268,17 @@ _Allow a student to..._
 
 ### Unit essential questions
 
-- What are the similarities and differences among transformations of all the parent functions?
-- Why is it important to study transformations of functions?
-- How can one function “undo” another function?
-- How can we use functions to model and analyze a real-life situation?
+- How can you tell when/if a polynomial expression can be simplified?
+- How can a polynomial be expressed graphically and what does each part of the graph represent?
+- What is the relationship between a polynomial’s factors, roots, zeros, and _x_-intercepts?
+- How can you use the graph of two functions to sketch the graph of an arithmetic combination of functions?
 
 ### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
-- Relations and functions can be represented numerically, graphically, algebraically, and/or verbally.
-- Changes to a function in algebraic form result in predictable changes to its graph.
+- Polynomials functions are a class of curved relationships that fit many real life applications.
+- There exists an important relationship between a polynomial’s factors, roots, zeros, and _x_-intercepts.
 
 ### Unit learning expectations (Knowledge)
 
@@ -275,28 +292,29 @@ _Students will know..._
 
 _Students will be able to..._
 
-- Parent Graphs
-  - Graph the parent functions of absolute value, quadratic, square root, cubic, cube root, exponential, logarithmic, rational (_f(x)=1/x_ and _f(x)=1/x²_) and apply translations, reflections, stretches and shrinks, and combinations of those transformations.
-  - Write functions representing translations, reflections, stretches and shrinks, and combinations of those transformations.
-- Analyzing Graphs of Parent Functions:
-  - Identify domain and range using interval notation. (Insure understanding of interval notation as a compound inequality).
-  - Identify intervals of increase and decrease.
-  - Find the intercepts, zeros, extrema, asymptotes.
-  - Describe the end behavior of the graph of a function.
-  - Determine continuity
-  - Identify functions as even, odd, or neither by examining symmetry.
-- Evaluating Functions Using the Graph
-  - Using the calculator to evaluate.
-  - Find the missing variable using the graph
-- Rate of Change
-  - Determine the average rate of change for a specific part the graph
-  - Compare rates of change between different parent functions
-- Inverse Functions
-  - Determine if two functions are inverses given a graph (reflection over _y = x_)
-  - Find inverse algebraically.
-- Introduction to Modeling and Regression
-  - Use the GDC to create linear and quadratic regressions
-  - Determine and interpret the coefficient of determination (_R²_)
+- Dividing Polynomials
+  - Use long and synthetic division to divide polynomials.
+  - Apply the Remainder Theorem
+- Factoring and Solving Polynomial Equations
+  - Factor polynomials over the set of complex numbers.
+  - Apply the Factor Theorem.
+  - Find solutions of polynomial equations and zeros of polynomial functions graphically and algebraically.
+  - Apply the Rational Root Theorem.
+- The Fundamental Theorem of Algebra
+  - Apply the Fundamental Theorem of Algebra.
+  - Use irrational and complex conjugates to write the equation of a polynomial function with specified zeros.
+- Analyzing the Graph of Polynomial Functions
+  - Review intercepts, increasing/decreasing, extrema, and even/odd symmetry.
+  - Describe the end behavior of a polynomial function.
+  - Use the zeros, multiplicity of the zeros, and end behavior of a polynomial to sketch the graph of a polynomial function by hand. (excludes accurate placement of relative extrema)
+- Modeling with Polynomial Functions
+  - Write and apply polynomial models for sets of points.
+  - Write and apply polynomial models for data sets using the regression capabilities of the graphing calculator.
+  - Using regression, determine model of best fit for a given set of data (emphasis on linear, quadratic, and exponential).
+- Performing Function Operations
+  - Find _f(-x)_, _(f+g)(x)_, _(f-g)(x)_, _(fg)(x)_, and _(f/g)(x)_ numerically, algebraically, and graphically; state its domain (to include rational, radical, exponential, and logarithmic functions).
+  - Find the composition of two functions numerically, algebraically and graphically.
+  - Show that two functions are inverses using the composition.
 
 ## Evidence of learning
 

@@ -60,9 +60,9 @@ _For example, identify percent rate of change in functions such as y = (1.02)^t 
 
 ##### Building Functions
 
-**F-BF.A.1b** Combine standard function types using arithmetic operations. For example, build a
-function that models the temperature of a cooling body by adding a constant function to a
-decaying exponential, and relate these functions to the model.
+**F-BF.A.1b**
+Combine standard function types using arithmetic operations.
+_For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model._
 
 **F-BF.B.4a** Solve an equation of the form f(x) = c for a simple function f that has an inverse and write
 an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1) for x ≠ 1._
