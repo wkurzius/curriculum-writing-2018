@@ -145,9 +145,9 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- The remainder theorem.
+- The factor theorem
+- The fundametal theorem of algebra
 
 ### Unit learning expectations (Ability)
 

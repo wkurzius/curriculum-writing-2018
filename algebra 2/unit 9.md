@@ -105,9 +105,9 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- The difference between independent and dependent events.
+- The multiplication principle.
+- Marginal and conditional relative frequencies.
 
 ### Unit learning expectations (Ability)
 

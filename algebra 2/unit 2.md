@@ -109,9 +109,10 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- The different forms of quadratic equations.
+- Radical expressions can be written with rational exponents.
+- The definition on the imaginary number, _i_.
+- The binomial theorem.
 
 ### Unit learning expectations (Ability)
 

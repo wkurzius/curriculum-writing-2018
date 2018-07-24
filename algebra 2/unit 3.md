@@ -120,9 +120,9 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- The intersection of multiple functions is its solution.
+- Graphing both sides of an equation can reveal the solution.
+- The discriminant tells you the number real solutions for a quadratic equation.
 
 ### Unit learning expectations (Ability)
 

@@ -111,9 +111,10 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- The measures of central tendency.
+- The measures of variation.
+- What bias is and how to identify it.
+- The binomial theorem.
 
 ### Unit learning expectations (Ability)
 

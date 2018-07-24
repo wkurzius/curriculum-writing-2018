@@ -115,9 +115,9 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- The relationship between radians and degrees.
+- The parts of an angle in standard position.
+- The ratios for the six trigonometric functions.
 
 ### Unit learning expectations (Ability)
 
@@ -126,7 +126,7 @@ _Students will be able to..._
 - Angles, Radian Measure, and the Unit Circle
   - Draw angles in standard position.
   - Find coterminal angles.
-  - Evaluate trigonometric functions using the unit circle or the gdc.
+  - Evaluate trigonometric functions using the unit circle or a graphing calculator.
 - Sine and Cosine Functions and Their Graphs
   - Write sine and cosine functions representing translations, reflections, stretches and shrinks, and combinations of those transformations.
   - Graph sine and cosine functions by applying translations, reflections, stretches and shrinks, and combinations of those transformations.

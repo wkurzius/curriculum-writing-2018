@@ -115,9 +115,9 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- Arithmetic sequences have a common difference.
+- Geometric sequences have a common ratio.
+- The difference between convergent and divergent infinite geometric series.
 
 ### Unit learning expectations (Ability)
 

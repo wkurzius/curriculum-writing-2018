@@ -130,9 +130,8 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- Exponential growth occurs when the base is >1 and decay is when the base is <1.
+- The inverse of an exponential function is a logarithmic function.
 
 ### Unit learning expectations (Ability)
 

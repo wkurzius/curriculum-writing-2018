@@ -128,9 +128,10 @@ _Students will understand..._
 
 _Students will know..._
 
-!!!!!!
-
-- Vocabulary including
+- Parents functions are functions with no transformations applied.
+- They features of parent functions.
+- The types of symmetry for the graph of a function.
+- Functions are undone by inverse functions.
 
 ### Unit learning expectations (Ability)
 
