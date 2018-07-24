@@ -1,12 +1,12 @@
-# Unit !!!!: !!!!
+# Unit 2: Equivalent forms
 
 ## Unit Overview
 
 **Content area:** Algebra 2
 
-**Unit title:** !!!!!
+**Unit title:** Equivalent forms
 
-**Unit time frame:** !!!TODO!!!
+**Unit time frame:** 20 days
 
 **Target Course/Grade Level:** 11
 
