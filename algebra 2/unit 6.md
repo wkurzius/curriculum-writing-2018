@@ -39,6 +39,7 @@
 ##### Quantities
 
 **N-Q.A.2**
+Define appropriate quantities for the purpose of descriptive modeling.
 
 ##### The Complex Number System
 
