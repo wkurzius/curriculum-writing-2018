@@ -24,11 +24,21 @@
 
 !!!!!!!
 
-##### Quantity
+##### The Real Number System
+
+##### Quantities
+
+##### The Complex Number System
 
 #### High School — Algebra
 
 !!!!!!
+
+##### Seeing Structure in Expressions
+
+##### Arithmetic with Polynomials and Rational Expressions
+
+##### Creating Equations
 
 ##### Reasoning with Equations and Inequalities
 

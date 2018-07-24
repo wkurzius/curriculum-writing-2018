@@ -32,7 +32,7 @@
 
 #### High School — Number and Quantity
 
-##### Quantity
+##### Quantities
 
 **N-Q.A.2** Define appropriate quantities for the purpose of descriptive modeling.
 
@@ -330,7 +330,7 @@ _Students will be able to..._
 
 ### Unit resources
 
-- Prentice Hall Algebra I © 2011
+- Holt McDougal Algebra 2 © 2012
 - Online adaptive math practice
 - 21st Century Skills
   - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
