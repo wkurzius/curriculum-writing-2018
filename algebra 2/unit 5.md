@@ -1,12 +1,12 @@
-# Unit 4: Exponentials and logarithms
+# Unit 5: Trigonometric functions
 
 ## Unit Overview
 
 **Content area:** Algebra 2
 
-**Unit title:** Exponentials and logarithms
+**Unit title:** Trigonometric functions
 
-**Unit time frame:** 20 days
+**Unit time frame:** 15 days
 
 **Target Course/Grade Level:** 11
 
@@ -30,55 +30,40 @@
 
 **MP7** Look for and make use of structure.
 
-#### High School — Algebra
-
-##### Seeing Structure in Expressions
-
-**A-SSE.B.3c** Use the properties of exponents to transform expressions for exponential functions.
-_For example the expression 1.15^t can be rewritten as (1.15^(1/12))^12t ≈ 1.012^12t to reveal the approximate equivalent monthly interest rate if the annual rate is 15%._
+**MP8** Look for and express regularity in repeated reasoning.
 
 #### High School — Functions
 
 ##### Interpretting Functions
 
 **F-IF.B.4**
-For a function that models a relationship between two quantities, interpret key features of graphs and tables
-in terms of the quantities, and sketch graphs showing key features given a verbal description of the
-relationship. Key features include: intercepts; intervals where the function is increasing, decreasing, positive,
-or negative; relative maximums and minimums; symmetries; end behavior; and periodicity.
-
-**F-IF.B.6**
-Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a
-specified interval. Estimate the rate of change from a graph.
+For a function that models a relationship between two quantities, interpret key features of graphs and
+tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the
+relationship.
+_Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
 
 **F-IF.C.7e**
 Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude.
 
-**F-IF.C.8b**
-Use the properties of exponents to interpret expressions for exponential functions.
-_For example, identify percent rate of change in functions such as y = (1.02)^t , y = (0.97)^t , y = (1.01)^12t , y = (1.2)^t/10, and classify them as representing exponential growth or decay._
+##### Trigonometric Functions
 
-##### Building Functions
+**F-TF.A.1**
+Understand radian measure of an angle as the length of the arc on the unit circle subtended by the angle.
 
-**F-BF.A.1b** Combine standard function types using arithmetic operations. For example, build a
-function that models the temperature of a cooling body by adding a constant function to a
-decaying exponential, and relate these functions to the model.
+**F-TF.A.2**
+Explain how the unit circle in the coordinate plane enables the extension of trigonometric functions to all real numbers, interpreted as radian measures of angles traversed counterclockwise around the unit circle.
 
-**F-BF.B.4a** Solve an equation of the form f(x) = c for a simple function f that has an inverse and write
-an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1) for x ≠ 1._
+**F-TF.B.5**
+Choose trigonometric functions to model periodic phenomena with specified amplitude, frequency, and midline.
 
-##### Linear and Exponential Models
-
-**F-LE.A.4** Understand the inverse relationship between exponents and logarithms. For exponential
-models, express as a logarithm the solution to _ab^ct = d_ where _a_, _c_, and _d_ are numbers and the base _b_ is 2, 10, or _e_; evaluate the logarithm using technology.
-
-**F-LE.B.5** Interpret the parameters in a linear or exponential function in terms of a context.
+**F-TF.C.8**
+Prove the Pythagorean identity sin²(θ) + cos²(θ) = 1 and use it to find sin(θ), cos(θ), or tan(θ) given sin(θ), cos(θ), or tan(θ) and the quadrant of the angle.
 
 #### High School — Statistics and Probability
 
-**S-ID.B.6a** Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
-
 ##### Interpreting Categorical and Quantitative Data
+
+**S-ID.B.6a** Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
 
 ### English Language Arts Companion Standards (Grade 9-10)
 
@@ -255,15 +240,15 @@ _Allow a student to..._
 
 ### Unit essential questions
 
-- What is the relationship between exponential and logarithmic functions?
-- How can the properties of exponents be used to derive the properties of logarithms?
-- What types of real-life situations can be modeled by polynomial, exponential, and logarithmic functions?
+- How is the pythagorean identity related to the pythagorean theorem and the equation of a circle?
+- What are the characteristics of the real-life problems that can be modeled by trigonometric functions?
 
 ### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
-- Logarithmic functions have an inverse relationship with exponential functions.
+- Trigonometric functions are ratios whose values can be calculated through right triangles or the unit circle.
+- Graphs of trigonometric functions are periodic and can be used to model real-world situations of a periodic nature.
 
 ### Unit learning expectations (Knowledge)
 
@@ -277,28 +262,19 @@ _Students will know..._
 
 _Students will be able to..._
 
-- Exponential Growth and Decay
-  - Understand exponential growth and decay.
-  - Write an exponential model to solve real world problems.
-- The Natural Base _e_
-  - Define and use the natural base _e_.
-  - Use e as a base when modeling real world problems
-- Logarithms and Logarithmic Functions
-  - Define and evaluate logarithms.
-  - Apply the inverse properties of logarithmic and exponential functions.
-- Transformations of Exponential and Logarithmic Functions
-  - Write exponential and logarithmic functions representing translations, reflections, stretches and shrinks, and combinations of those transformations.
-  - Graph exponential and logarithmic functions by applying translations, reflections, stretches and shrinks, and combinations of those transformations.
-- Properties of Logarithms
-  - Use the properties of logs to evaluate logarithms and expand or condense logarithmic expressions.
-  - Use the change of base formula to evaluate logarithms.
-- Solving Exponential and Logarithmic Functions
-  - Solve exponential and logarithmic equations algebraically and graphically.
-  - Solve exponential and logarithmic inequalities algebraically and graphically.
-- Modeling with Exponential and Logarithmic Functions
-  - Write and apply an exponential model for a set of points.
-  - Show that an exponential model is a good fit for a set of data (_x_, _y_) using the coefficient of determination, _r²_.
-  - Write and apply exponential and logarithmic models for a set of data using the regression capabilities of the graphing calculator.
+- Angles, Radian Measure, and the Unit Circle
+  - Draw angles in standard position.
+  - Find coterminal angles.
+  - Evaluate trigonometric functions using the unit circle or the gdc.
+- Sine and Cosine Functions and Their Graphs
+  - Write sine and cosine functions representing translations, reflections, stretches and shrinks, and combinations of those transformations.
+  - Graph sine and cosine functions by applying translations, reflections, stretches and shrinks, and combinations of those transformations.
+- Modeling with Trigonometric Functions (sine and cosine only)
+  - Write and apply trigonometric models to solve real-world problems to include amplitude, period, and midline.
+  - Write and apply trigonometric models using the regression capabilities of the graphing calculator.
+- Using Trigonometric Identities
+  - Use the quotient identity for tangent.
+  - Use the pythagorean identity (sin²(θ) + cos²(θ) = 1 only) to evaluate sine, cosine and tangent.
 
 ## Evidence of learning
 
