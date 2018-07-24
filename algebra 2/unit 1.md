@@ -278,7 +278,7 @@ _Students will be able to..._
 - Parent Graphs
   - Graph the parent functions of absolute value, quadratic, square root, cubic, cube root, exponential, logarithmic, rational (_f(x)=1/x_ and _f(x)=1/x²_) and apply translations, reflections, stretches and shrinks, and combinations of those transformations.
   - Write functions representing translations, reflections, stretches and shrinks, and combinations of those transformations.
-- Analyzing Graphs of Parent Functions:
+- Analyzing Graphs of Parent Functions
   - Identify domain and range using interval notation. (Insure understanding of interval notation as a compound inequality).
   - Identify intervals of increase and decrease.
   - Find the intercepts, zeros, extrema, asymptotes.
@@ -325,7 +325,12 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Parent Graphs                          |3|
+|Analyzing Graphs of Parent Functions   |3|
+|Evaluating Functions Using the Graph   |3|
+|Rate of Change                         |3|
+|Inverse Functions                      |4|
+|Introduction to Modeling and Regression|4|
 
 ## Teacher notes
 

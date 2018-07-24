@@ -262,12 +262,12 @@ _Students will know..._
 
 _Students will be able to..._
 
-- Analyzing Arithmetic Sequences and Series*
+- Analyzing Arithmetic Sequences and Series
   - Identify arithmetic sequences.
   - Write the rule for the nth term of an arithmetic sequences.
   - Find finite sums of arithmetic sequences.
   - Use arithmetic sequences to model real-life situations.
-- Analyzing Geometric Sequences and Series*
+- Analyzing Geometric Sequences and Series
   - Identify geometric sequences.
   - Write the rule for the nth term of a geometric sequence.
   - Use geometric sequences to model real-life situations.
@@ -309,7 +309,10 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Analyzing Arithmetic Sequences and Series|2|
+|Analyzing Geometric Sequences and Series |2|
+|Finding Sums of Infinite Geometric Series|3|
+|Using Recursive Rules with Sequences     |3|
 
 ## Teacher notes
 

@@ -294,7 +294,10 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Sample Spaces and Probability                 |2|
+|Independent and Dependent Events              |2|
+|Two-way Tables and Probability                |3|
+|Probability of Disjoint and Overlapping Events|3|
 
 ## Teacher notes
 

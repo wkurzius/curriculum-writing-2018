@@ -327,7 +327,13 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Exponential Growth and Decay                            |2|
+|The Natural Base _e_                                    |3|
+|Logarithms and Logarithmic Functions                    |3|
+|Transformations of Exponential and Logarithmic Functions|3|
+|Properties of Logarithms                                |3|
+|Solving Exponential and Logarithmic Functions           |3|
+|Modeling with Exponential and Logarithmic Functions     |3|
 
 ## Teacher notes
 

@@ -312,7 +312,11 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Solving Polynomial Equations Algebraically and Graphically|3|
+|Solving Radical Equations                                 |3|
+|Solving Rational Equations                                |3|
+|Solving Linear Systems in 3 Variables                     |3|
+|Solving Nonlinear Systems                                 |3|
 
 ## Teacher notes
 

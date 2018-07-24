@@ -310,7 +310,12 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Using Normal Distributions           |2|
+|Populations, Samples, and Hypotheses |2|
+|Collecting Data                      |2|
+|Experimental Design                  |3|
+|Making Inferences from Sample Surveys|3|
+|Making Inferences from Experiments   |3|
 
 ## Teacher notes
 

@@ -344,7 +344,12 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Dividing Polynomials                       |3|
+|Factoring and Solving Polynomial Equations |3|
+|The Fundamental Theorem of Algebra         |3|
+|Analyzing the Graph of Polynomial Functions|3|
+|Modeling with Polynomial Functions         |4|
+|Performing Function Operations             |4|
 
 ## Teacher notes
 

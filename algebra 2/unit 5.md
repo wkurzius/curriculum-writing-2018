@@ -303,7 +303,10 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Angles, Radian Measure, and the Unit Circle                 |3|
+|Sine and Cosine Functions and Their Graphs                  |4|
+|Modeling with Trigonometric Functions (sine and cosine only)|4|
+|Using Trigonometric Identities                              |4|
 
 ## Teacher notes
 

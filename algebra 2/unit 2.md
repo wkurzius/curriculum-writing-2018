@@ -271,7 +271,7 @@ _Students will be able to..._
   - Multiply and divide rational expressions.
   - Add and subtract rational expressions.
 - Complex Numbers
-  - Define and use the imaginary unit i.
+  - Define and use the imaginary unit _i_.
   - Add, subtract, and multiply complex numbers.
 
 ## Evidence of learning
@@ -301,7 +301,11 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|???|
+|Quadratic Expressions           |4|
+|Polynomial Expressions          |4|
+|Properties of Rational Exponents|4|
+|Rational Expressions            |4|
+|Complex Numbers                 |4|
 
 ## Teacher notes
 
