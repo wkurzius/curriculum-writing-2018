@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit focuses on arithmetic and geometric sequences and writing rules for them along with their analysis. It also introduces infinite gemotric series and writing recursive rules for series.
 
 ## New Jersey Student Learning Standards
 

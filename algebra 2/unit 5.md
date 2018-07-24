@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit focuses on trigonometric functions and their properties along with their use in modeling real world situations. It ends with a look at trigonometric identities.
 
 ## New Jersey Student Learning Standards
 

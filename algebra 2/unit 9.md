@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit is a more complex look at probabilty, including looking at sample spaces, complementary events, and conditional events. It also applies probability to two-way tables to find marginal and conditional relative frequencies.
 
 ## New Jersey Student Learning Standards
 

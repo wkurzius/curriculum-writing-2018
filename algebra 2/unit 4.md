@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit begins with exponential growth and decay and introduces the natural base, _e_. It also introduces logarithms and their properties. It ends with using exponential and logarithmic functions for modeling.
 
 ## New Jersey Student Learning Standards
 

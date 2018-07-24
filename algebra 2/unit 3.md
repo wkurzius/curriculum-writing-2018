@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit takes concepts from the previous and applies them to solving polynomial, radical, and rational equations. It also looks at solving linear and nonlinear systems.
 
 ## New Jersey Student Learning Standards
 

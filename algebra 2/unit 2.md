@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit looks at the different ways to rewrite a function and what information each conveys. It then moves to applying arithemtic operations to polynomials, rational expressions. Lastly, it introduces the complex number system and definition of _i_.
 
 ## New Jersey Student Learning Standards
 

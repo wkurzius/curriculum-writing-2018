@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit looks at graphs of parent functions and their features (e.g. domain, intercepts) and also how algebraic changes apply transformations to the function’s graph. Time is also spent on evaluating functions and determining the inverse of a function.
 
 ## New Jersey Student Learning Standards
 

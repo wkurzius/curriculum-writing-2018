@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit starts with division of polynomials and how it can be used to factor polynomials. It then looks at analyzing graphs of polynomial functions, then modeling with them. It ends with performing function operations, such as _(f+g)(x)_.
 
 ## New Jersey Student Learning Standards
 

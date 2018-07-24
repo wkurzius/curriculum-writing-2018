@@ -10,7 +10,7 @@
 
 **Target Course/Grade Level:** 11
 
-**Unit Summary:** !!!!!
+**Unit Summary:** This unit acts as an introduction to high school statistics. It touches on proper data gathering, normal distributions, z-scores, and making inferences from survey and experiments.
 
 ## New Jersey Student Learning Standards
 
