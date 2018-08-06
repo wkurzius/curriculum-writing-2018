@@ -1,4 +1,4 @@
-# Unit #: Polar and Parametric Equations
+# Unit 4: Polar and Parametric Equations
 
 ## Unit Overview
 

@@ -18,22 +18,21 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP3** Construct viable arguments and critique the reasoning of others.
+- **MP3**: Construct viable arguments and critique the reasoning of others.
 
-**MP4** Model with mathematics.
+- **MP4**: Model with mathematics.
 
-**MP5** Use appropriate tools strategically.
+- **MP5**: Use appropriate tools strategically.
 
-**MP6** Attend to precision.
+- **MP6**: Attend to precision.
 
-**MP7** Look for and make use of structure.
+- **MP7**: Look for and make use of structure.
 
-**MP8** Look for and express regularity in repeated reasoning.
-
+- **MP8**: Look for and express regularity in repeated reasoning.
 #### High School — Functions
 
 ##### Trigonometric Functions

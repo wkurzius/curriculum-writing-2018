@@ -1,16 +1,16 @@
-# Unit #: NAME
+# Unit 5: Sequences and Series
 
 ## Unit Overview
 
 - **Content area**: Precalculus
 
-- **Unit title**: !!!!!
+- **Unit title**: Sequences and Series
 
-- **Unit time frame**: !!!TODO!!!
+- **Unit time frame**: 2–3 weeks
 
 - **Target Course/Grade Level**: 11
 
-- **Unit Summary**: !!!!!
+- **Unit Summary**: This unit begins with sequences and their relationship with functions with a focus on arithmetic sequences and linear functions and geometric sequences and exponential functions. It then moves on to finding sums of infinite series.
 
 ## New Jersey Student Learning Standards
 
@@ -34,11 +34,27 @@
 
 - **MP8**: Look for and express regularity in repeated reasoning.
 
-#### High School — STRAND
+#### High School — Algebra
 
-##### AREA
+##### Seeing Structure in Expressions
 
-- **A-BC.D.1**:
+- **A-SSE.B.4**: Derive and/or explain the formula for the sum of a finite geometric series (when the common ratio is not 1), and use the formula to solve problems. _For example, calculate mortgage payments._
+
+#### High School — Functions
+
+##### Interpretting Functions
+
+- **F-IF.A.3**: Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers. _For example, the Fibonacci sequence is defined recursively by f(0) = f(1) = 1, f(n+1) = f(n) + f(n-1) for n ≥ 1._
+
+##### Building Functions
+
+- **F-BF.A.1a**: Determine an explicit expression, a recursive process, or steps for calculation from a context.
+
+- **F-BF.A.2**: Write arithmetic and geometric sequences both recursively and with an explicit formula, use them to model situations, and translate between the two forms.
+
+##### Linear and Exponential Models
+
+- **F-LE.A.2**: Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table).
 
 ### English Language Arts Companion Standards (Grade 9-10)
 
@@ -76,25 +92,49 @@
 
 ### Unit essential questions
 
-- 
+- To what extent are arithmetic sequences linear and geometric sequences exponential?
+
+- How can an infinite amount of numbers add up to a finite quantity?
+
+- What is the difference between an explicit and recursive rule?
 
 ### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
-- 
+- A sequence is a function whose domain is the set of natural numbers.
+
+- An arithmetic sequence can be expressed as a linear function.
+
+- A geometric sequence can be expressed as an exponential function.
 
 ### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
-- 
+- If a sequence is convergent if it has a limit. It is divergent if it does not.
+
+- A sequence is arithmetic if the difference between consecutive terms is constant.
+
+- A sequence is geometric if the ratio between consecutive terms is constant.
 
 ### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
-- 
+- Arithmetic and Geometric Sequences and Series*
+  - Recognize, write, and find the nth term of an arithmetic or geometric sequences.
+  - Use sequence and series to model and solve real life problems.
+  - Recognize, use, and write recursive formulas.
+  - Calculate sums of infinite geometric series and the nth partial sums of arithmetic and geometric sequences.
+  - Use finite differences to write the nth term of a sequences.
+- Binomial Theorem
+  - Apply the Binomial Theorem.
+  - Apply Pascal's triangle and/or the binomial coefficients to find the nth term of a binomial expansion or the coefficient of a specific term.
+- Summations of Powers of i.
+  - Apply the summation formulas to evaluate powers of _i_.
+- Mathematical Induction
+  - Prove summation formulas, inequality statements, or divisibility statements by mathematical induction.
 
 ## Evidence of learning
 
@@ -134,7 +174,10 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|TOPIC|99|
+|Arithmetic and Geometric Sequences and Series|5|
+|Binomial Theorem                             |5|
+|Summations of Powers of _i_                  |5|
+|Mathematical Induction                       |5|
 
 ## Teacher notes
 

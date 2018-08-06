@@ -1,4 +1,4 @@
-# Unit #: Vectors and Complex Numbers
+# Unit 3: Vectors and Complex Numbers
 
 ## Unit Overview
 
