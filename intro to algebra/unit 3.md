@@ -1,6 +1,6 @@
-# Unit 3: Solving inequalities
+## Unit 3: Solving inequalities
 
-## Unit Overview
+### Unit Overview
 
 - **Content area**: Introduction to Algebra
 
@@ -12,43 +12,43 @@
 
 - **Unit Summary**: This unit focuses on students solving inequalities and visualizing/graphing them on the number line. The unit then introduces sets before moving into compound inequalities, absolute value equations and inequalities, and finally the union and intersection of sets.
 
-## New Jersey Student Learning Standards
+### New Jersey Student Learning Standards
 
-### New Jersey Student Learning Standards for Mathematics
+#### New Jersey Student Learning Standards for Mathematics
 
-#### Standards for Mathematical Practice
+##### Standards for Mathematical Practice
 
 - **MP2**: Reason abstractly and quantitatively.
 
 - **MP4**: Model with mathematics.
 
-#### High School — Algebra
+##### High School — Algebra
 
-##### Seeing structure in expressions
+###### Seeing structure in expressions
 
 - **A-SSE.A.1b**: Interpret complicated expressions by viewing one or more of their parts as a single entity. _For example, interpret P(1+r)ⁿ as the product of P and a factor not depending on P._
 
-##### Creating equations
+###### Creating equations
 
 - **A-CED.A.1**: Create equations and inequalities in one variable and use them to solve problems. _Include equations arising from linear and quadratic functions, and simple rational and exponential functions._
 
-##### Reasoning with equations and inequalities
+###### Reasoning with equations and inequalities
 
 - **A-REI.B.3**: Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters.
 
-### English Language Arts Companion Standards (Grade 9–10)
+#### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-### Technology — Educational Technology
+#### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-### 21st Century Life and Careers
+#### 21st Century Life and Careers
 
-#### Career Ready Practices
+##### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -62,15 +62,15 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-#### Career Awareness, Exploration, and Preparation
+##### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-## Learning expectations
+### Learning expectations
 
-### Unit essential questions
+#### Unit essential questions
 
 - How do you represent relationships between quantities that are not equal?
 
@@ -78,7 +78,7 @@
 
 - How can you solve inequalities?
 
-### Unit enduring understanding (Understanding)
+#### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -90,7 +90,7 @@ _Students will understand..._
 
 - Absolute value equations and inequalities can be solved by first isolating the absolute value expression, if necessary, then writing an equivalent pair of linear equations or inequalities.
 
-### Unit learning expectations (Knowledge)
+#### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -100,7 +100,7 @@ _Students will know..._
 
 - An equivalent pair of linear equations or inequalities can be used to solve absolute value equations and inequalities.
 
-### Unit learning expectations (Ability)
+#### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -124,9 +124,9 @@ _Students will be able to..._
 
 - Find the union and intersection of sets.
 
-## Evidence of learning
+### Evidence of learning
 
-### Summative assessment
+#### Summative assessment
 
 - Extended constructed response
 
@@ -136,7 +136,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-### Formative assessments
+#### Formative assessments
 
 
 - Extended constructed response (ECR) questions
@@ -159,7 +159,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-## Lesson plans
+### Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -172,9 +172,9 @@ _Students will be able to..._
 |Absolute value equations and inequalities            |4|
 |Unions and intersections of sets                     |4|
 
-## Teacher notes
+### Teacher notes
 
-### Unit resources
+#### Unit resources
 
 - Prentice Hall Algebra I © 2011
 
@@ -186,7 +186,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-### Technology integrations
+#### Technology integrations
 
 - Graphing calculator
 

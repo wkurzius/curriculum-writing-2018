@@ -1,6 +1,6 @@
-# Unit 1: Variables, expressions, and real-number operations
+## Unit 1: Variables, expressions, and real-number operations
 
-## Unit Overview
+### Unit Overview
 
 - **Content area**: Introduction to Algebra
 
@@ -12,11 +12,11 @@
 
 - **Unit Summary**: This unit begins with introducing students to variables and expressions along with how to evaluate expressions using order of operations. It then moves on to real numbers and their properties. Students will learn how to evaluate square root expressions and perform operations on real numbers. The unit ends with an introduction to patterns, equations, and graphs.
 
-## New Jersey Student Learning Standards
+### New Jersey Student Learning Standards
 
-### New Jersey Student Learning Standards for Mathematics
+#### New Jersey Student Learning Standards for Mathematics
 
-#### Standards for Mathematical Practice
+##### Standards for Mathematical Practice
 
 - **MP2**: Reason abstractly and quantitatively.
 
@@ -24,21 +24,21 @@
 
 - **MP7**: Look for and make use of structure.
 
-#### High School — Number and Quantity
+##### High School — Number and Quantity
 
-##### The Real Number System
+###### The Real Number System
 
 - **N-RN.B.3**: Explain why the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational.
 
-#### High School — Algebra
+##### High School — Algebra
 
-##### Seeing Structure in Expressions
+###### Seeing Structure in Expressions
 
 - **A-SSE.A.1**: Interpret expressions that represent a quantity in terms of its context.
 
 - **A-SSE.A.1a**: Interpret parts of an expression, such as terms, factors, and coefficients
 
-##### Creating Equations
+###### Creating Equations
 
 - **A-CED.A.1**: Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear and quadratic functions, and simple rational and exponential functions.
 
@@ -46,19 +46,19 @@
 
 - **A-REI.D.10**: Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line).
 
-### English Language Arts Companion Standards (Grade 9–10)
+#### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-### Technology — Educational Technology
+#### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-### 21st Century Life and Careers
+#### 21st Century Life and Careers
 
-#### Career Ready Practices
+##### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -72,21 +72,21 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-#### Career Awareness, Exploration, and Preparation
+##### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-## Learning expectations
+### Learning expectations
 
-### Unit essential questions
+#### Unit essential questions
 
 - How can you represent quantities, patterns, and relationships?
 
 - How are properties related to algebra?
 
-### Unit enduring understanding (Understanding)
+#### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -106,7 +106,7 @@ _Students will understand..._
 
 - Sometimes the value of of one quantity can be found if the value of another is known. The relationship between the quantities can be represented in different ways, including tables, equations, and graphs.
 
-### Unit learning expectations (Knowledge)
+#### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -120,7 +120,7 @@ _Students will know..._
 
 - Equations are used to represent the relationship between two quantities that have the same value.
 
-### Unit learning expectations (Ability)
+#### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -146,9 +146,9 @@ _Students will be able to..._
 
 - Use tables, equations, and graphs to describe relationships.
 
-## Evidence of learning
+### Evidence of learning
 
-### Summative assessment
+#### Summative assessment
 
 - Extended constructed response
 
@@ -158,7 +158,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-### Formative assessments
+#### Formative assessments
 
 - Extended constructed response (ECR) questions
 
@@ -180,7 +180,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-## Lesson plans
+### Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -194,9 +194,9 @@ _Students will be able to..._
 |Introduction to equations                     |4|
 |Patterns, equations, and graphs               |2|
 
-## Teacher notes
+### Teacher notes
 
-### Unit resources
+#### Unit resources
 
 - Prentice Hall Algebra I © 2011
 
@@ -208,7 +208,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-### Technology integrations
+#### Technology integrations
 
 - Graphing calculator
 

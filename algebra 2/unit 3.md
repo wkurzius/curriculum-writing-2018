@@ -1,6 +1,6 @@
-# Unit 3: Solving and intersections
+## Unit 3: Solving and intersections
 
-## Unit Overview
+### Unit Overview
 
 - **Content area**: Algebra 2
 
@@ -12,11 +12,11 @@
 
 - **Unit Summary**: This unit takes concepts from the previous and applies them to solving polynomial, radical, and rational equations. It also looks at solving linear and nonlinear systems.
 
-## New Jersey Student Learning Standards
+### New Jersey Student Learning Standards
 
-### New Jersey Student Learning Standards for Mathematics
+#### New Jersey Student Learning Standards for Mathematics
 
-#### Standards for Mathematical Practice
+##### Standards for Mathematical Practice
 
 - **MP1**: Make sense of problems and persevere in solving them.
 
@@ -32,19 +32,19 @@
 
 - **MP8**: Look for and express regularity in repeated reasoning.
 
-#### High School — Number and Quantity
+##### High School — Number and Quantity
 
-##### The Complex Number System
+###### The Complex Number System
 
 - **N-CN.C.7**: Solve quadratic equations with real coefficients that have complex solutions.
 
-#### High School — Algebra
+##### High School — Algebra
 
-##### Creating Equations
+###### Creating Equations
 
 - **A-CED.A.1**: Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear and quadratic functions, and simple rational and exponential functions.
 
-##### Reasoning with Equations and Inequalities
+###### Reasoning with Equations and Inequalities
 
 - **A-REI.A.1**: Explain each step in solving a simple equation or systems of equations as following from the equality of numbers asserted at the previous step, starting from the assumption that the original equation has a solution. Construct a viable argument to justify a solution method. Reason about the nature of solutions.
 
@@ -58,19 +58,19 @@
 
 - **A-REI.D.11**: Explain why the _x_-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_; find the solutions approximately, e.g. using technology to graph the functions, make tables of values, or find successive approximations. Include cases where _f(x)_ and/or _g(x)_ are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.
 
-### English Language Arts Companion Standards (Grade 9–10)
+#### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-### Technology — Educational Technology
+#### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-### 21st Century Life and Careers
+#### 21st Century Life and Careers
 
-#### Career Ready Practices
+##### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -84,21 +84,21 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-#### Career Awareness, Exploration, and Preparation
+##### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-## Learning expectations
+### Learning expectations
 
-### Unit essential questions
+#### Unit essential questions
 
 - How can you use the graphs of a function to solve an associated equation?
 
 - How can you solve a nonlinear system of equations?
 
-### Unit enduring understanding (Understanding)
+#### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -108,7 +108,7 @@ _Students will understand..._
 
 - The solution of a system of equations is the point of intersection of the graphs of the corresponding functions.
 
-### Unit learning expectations (Knowledge)
+#### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -118,7 +118,7 @@ _Students will know..._
 
 - The discriminant tells you the number real solutions for a quadratic equation.
 
-### Unit learning expectations (Ability)
+#### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -156,9 +156,9 @@ _Students will be able to..._
 
   - Solve equations by rewriting it as a system of equations and then solving the system by graphing. For example, solve _3x² + 5x − 1 = -x² + 2x + 1_ by writing it as the system _y₁ = 3x² + 5x − 1 and y₂ = −x² + 2x + 1_).
 
-## Evidence of learning
+### Evidence of learning
 
-### Summative assessment
+#### Summative assessment
 
 - Extended constructed response
 
@@ -168,7 +168,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-### Formative assessments
+#### Formative assessments
 
 - Extended constructed response (ECR) questions
 
@@ -190,7 +190,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-## Lesson plans
+### Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -200,9 +200,9 @@ _Students will be able to..._
 |Solving Linear Systems in 3 Variables                     |3|
 |Solving Nonlinear Systems                                 |3|
 
-## Teacher notes
+### Teacher notes
 
-### Unit resources
+#### Unit resources
 
 - Holt McDougal Algebra 2 © 2012
 
@@ -214,7 +214,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-### Technology integrations
+#### Technology integrations
 
 - Graphing calculator
 
