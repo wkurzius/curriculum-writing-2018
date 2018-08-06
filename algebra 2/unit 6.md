@@ -38,8 +38,7 @@
 
 ##### Quantities
 
-- **N-Q.A.2**:
-Define appropriate quantities for the purpose of descriptive modeling.
+- **N-Q.A.2**: Define appropriate quantities for the purpose of descriptive modeling.
 
 ##### The Complex Number System
 
@@ -47,43 +46,31 @@ Define appropriate quantities for the purpose of descriptive modeling.
 
 ##### Arithmetic with Polynomials and Rational Expressions
 
-- **A-APR.B.2**:
-Know and apply the Remainder Theorem: For a polynomial _p(x)_ and a number _a_, the remainder on division by _x – a_ is _p(a)_, so _p(a) = 0_ if and only if _(x – a)_ is a factor of _p(x)_.
+- **A-APR.B.2**: Know and apply the Remainder Theorem: For a polynomial _p(x)_ and a number _a_, the remainder on division by _x – a_ is _p(a)_, so _p(a) = 0_ if and only if _(x – a)_ is a factor of _p(x)_.
 
-- **A-APR.B.3**:
-Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial.
+- **A-APR.B.3**: Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial.
 
-- **A-APR.C.4**:
-Prove polynomial identities and use them to describe numerical relationships.
-_For example, the difference of two squares; the sum and difference of two cubes; the polynomial identity (x² + y²)² = (x² – y²)² + (2xy)² can be used to generate Pythagorean triples._
+- **A-APR.C.4**: Prove polynomial identities and use them to describe numerical relationships. _For example, the difference of two squares; the sum and difference of two cubes; the polynomial identity (x² + y²)² = (x² – y²)² + (2xy)² can be used to generate Pythagorean triples._
 
-- **A-APR.D.6**:
-Rewrite simple rational expressions in different forms; write _a(x)/b(x)_ in the form _q(x) + r(x)/b(x)_, where _a(x)_, _b(x)_, _q(x)_, and _r(x)_ are polynomials with the degree of _r(x)_ less than the degree of _b(x)_, using inspection, long division, or, for the more complicated examples, a computer algebra system.
+- **A-APR.D.6**: Rewrite simple rational expressions in different forms; write _a(x)/b(x)_ in the form _q(x) + r(x)/b(x)_, where _a(x)_, _b(x)_, _q(x)_, and _r(x)_ are polynomials with the degree of _r(x)_ less than the degree of _b(x)_, using inspection, long division, or, for the more complicated examples, a computer algebra system.
 
 ##### Reasoning with Equations and Inequalities
 
-- **A-REI.B.4b**:
-Solve quadratic equations by inspection (e.g. for _x² = 49_), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as _a ± bi_ for real numbers _a_ and _b_.
+- **A-REI.B.4b**: Solve quadratic equations by inspection (e.g. for _x² = 49_), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as _a ± bi_ for real numbers _a_ and _b_.
 
 #### High School — Functions
 
 ##### Interpretting Functions
 
-- **F-IF.B.4**:
-For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship.
-_Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
+- **F-IF.B.4**: For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. _Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
 
-- **F-IF.C.7c**:
-Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior.
+- **F-IF.C.7c**: Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior.
 
-- **F-IF.C.9**: Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).
-_For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum._
+- **F-IF.C.9**: Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). _For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum._
 
 ##### Building Functions
 
-- **F-BF.A.1b**:
-Combine standard function types using arithmetic operations.
-_For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model._
+- **F-BF.A.1b**: Combine standard function types using arithmetic operations. _For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model._
 
 ##### Linear and Exponential Models
 
@@ -130,8 +117,11 @@ _For example, build a function that models the temperature of a cooling body by 
 ### Unit essential questions
 
 - How can you tell when/if a polynomial expression can be simplified?
+
 - How can a polynomial be expressed graphically and what does each part of the graph represent?
+
 - What is the relationship between a polynomial’s factors, roots, zeros, and _x_-intercepts?
+
 - How can you use the graph of two functions to sketch the graph of an arithmetic combination of functions?
 
 ### Unit enduring understanding (Understanding)
@@ -139,6 +129,7 @@ _For example, build a function that models the temperature of a cooling body by 
 _Students will understand..._
 
 - Polynomials functions are a class of curved relationships that fit many real life applications.
+
 - There exists an important relationship between a polynomial’s factors, roots, zeros, and _x_-intercepts.
 
 ### Unit learning expectations (Knowledge)
@@ -146,7 +137,9 @@ _Students will understand..._
 _Students will know..._
 
 - The remainder theorem.
+
 - The factor theorem
+
 - The fundametal theorem of algebra
 
 ### Unit learning expectations (Ability)
@@ -154,27 +147,49 @@ _Students will know..._
 _Students will be able to..._
 
 - Dividing Polynomials
+
   - Use long and synthetic division to divide polynomials.
+
   - Apply the Remainder Theorem
+
 - Factoring and Solving Polynomial Equations
+
   - Factor polynomials over the set of complex numbers.
+
   - Apply the Factor Theorem.
+
   - Find solutions of polynomial equations and zeros of polynomial functions graphically and algebraically.
+  
   - Apply the Rational Root Theorem.
+
 - The Fundamental Theorem of Algebra
+
   - Apply the Fundamental Theorem of Algebra.
+
   - Use irrational and complex conjugates to write the equation of a polynomial function with specified zeros.
+
 - Analyzing the Graph of Polynomial Functions
+
   - Review intercepts, increasing/decreasing, extrema, and even/odd symmetry.
+
   - Describe the end behavior of a polynomial function.
+
   - Use the zeros, multiplicity of the zeros, and end behavior of a polynomial to sketch the graph of a polynomial function by hand. (excludes accurate placement of relative extrema)
+
 - Modeling with Polynomial Functions
+
   - Write and apply polynomial models for sets of points.
+
   - Write and apply polynomial models for data sets using the regression capabilities of the graphing calculator.
+
   - Using regression, determine model of best fit for a given set of data (emphasis on linear, quadratic, and exponential).
+
 - Performing Function Operations
+
   - Find _f(-x)_, _(f+g)(x)_, _(f-g)(x)_, _(fg)(x)_, and _(f/g)(x)_ numerically, algebraically, and graphically; state its domain (to include rational, radical, exponential, and logarithmic functions).
+
   - Find the composition of two functions numerically, algebraically and graphically.
+
   - Show that two functions are inverses using the composition.
 
 ## Evidence of learning
@@ -182,21 +197,33 @@ _Students will be able to..._
 ### Summative assessment
 
 - Extended constructed response
+
 - End of chapter assessments
+
 - Teacher designed tests
+
 - _Alternate assessment_: Performance task
 
 ### Formative assessments
 
 - Extennded constructed response (ECR) questions
+
 - Self and peer assessments
+
 - Communicators
+
 - Teacher created materials
+
 - Math journals
+
 - Graphic organizers
+
 - Teacher observations
+
 - Peer interaction
+
 - Do Nows & Exit Tickets
+
 - District formative assessments
 
 ## Lesson plans
@@ -214,15 +241,22 @@ _Students will be able to..._
 
 ### Unit resources
 
-- Holt McDougal Algebra 2 © 2012
+- Glencoe Precalculus © 2014
+
 - Online adaptive math practice
+
 - 21st Century Skills
+
   - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
+
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
 ### Technology integrations
 
 - Graphing calculator
+
 - Online graphing calculator (e.g. Desmos)
+
 - Online adaptive math practice (e.g. Khan Academy)
+
 - Online equation editor (e.g. Graspable Math)
