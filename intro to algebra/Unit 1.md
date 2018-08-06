@@ -118,7 +118,7 @@ _Students will know..._
 
 - Relationships that are always true for real numbers are called properties, which are rules used to rewrite and compare expressions.
 
-- Equations are used to represent the relationsip between two quantities that have the same value.
+- Equations are used to represent the relationship between two quantities that have the same value.
 
 ### Unit learning expectations (Ability)
 
@@ -134,7 +134,7 @@ _Students will be able to..._
 
 - Find and estimate square roots.
 
-- Identfify and use properties of real numbers.
+- Identify and use properties of real numbers.
 
 - Find sums and differences of real numbers.
 
@@ -160,7 +160,7 @@ _Students will be able to..._
 
 ### Formative assessments
 
-- Extennded constructed response (ECR) questions
+- Extended constructed response (ECR) questions
 
 - Self and peer assessments
 
