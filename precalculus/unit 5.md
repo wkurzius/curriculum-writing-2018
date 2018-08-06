@@ -123,17 +123,29 @@ _Students will know..._
 _Students will be able to..._
 
 - Arithmetic and Geometric Sequences and Series*
+
   - Recognize, write, and find the nth term of an arithmetic or geometric sequences.
+
   - Use sequence and series to model and solve real life problems.
+
   - Recognize, use, and write recursive formulas.
+
   - Calculate sums of infinite geometric series and the nth partial sums of arithmetic and geometric sequences.
+
   - Use finite differences to write the nth term of a sequences.
+
 - Binomial Theorem
+
   - Apply the Binomial Theorem.
+
   - Apply Pascal's triangle and/or the binomial coefficients to find the nth term of a binomial expansion or the coefficient of a specific term.
+
 - Summations of Powers of i.
+
   - Apply the summation formulas to evaluate powers of _i_.
+
 - Mathematical Induction
+
   - Prove summation formulas, inequality statements, or divisibility statements by mathematical induction.
 
 ## Evidence of learning

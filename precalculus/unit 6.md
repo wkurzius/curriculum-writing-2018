@@ -135,19 +135,31 @@ _Students will know..._
 _Students will be able to..._
 
 - Graphs
+
   - Recognize and sketch the graph of polynomial, rational, logarithmic, exponential, square root, cube root, trigonometric, and piecewise functions.
+
   - Analyze/interpret the graph of a function by identifying intercepts, zeros, asymptotes, end behavior, and domain and range.
+
   - Discuss relationship between even and odd functions.
 - Transformations of functions
+
   - Apply transformations of functions to sketch the graph of polynomial, rational, logarithmic, exponential, square root, cube root, trigonometric, and piecewise functions.
+
   - Sketch the graph of _y = |f(x)|_ and _y = f(|x|)_ given the graph of _f(x)_.
 - Function Operations
+
   - Determine if a relation is a function and if a function is one-to-one.
+
   - Determine if the inverse of a function exists.
+
   - Find the inverse of a functions algebraically and graphically. (Include functions for which the domain must be restricted in order for the inverse to exist.
+
   - Understand the relationship between the domain and range of a function and its inverse.
+
   - Given the graph of a function, evaluate the inverse at a specific value.
+
   - Graph and write the algebraic form of the compositions of two functions.
+
   - Determine the domain of the composition of two functions.
 
 ## Evidence of learning

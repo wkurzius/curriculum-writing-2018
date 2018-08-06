@@ -107,17 +107,29 @@ _Students will know..._
 _Students will be able to..._
 
 - Parametric Equations
+
   - Evaluate sets of parametric equations for the given parameter.
+
   - Convert between parametric and rectangular equations.
+
   - Graph curves that are represented by sets of parametric equations with (emphasized) and without technology.
+
   - Use trigonometric parametric equations to solve real-world applications such as those involving projectiles.
+
 - Polar Coordinates
+
   - Plot points and find multiple representations of points in the polar coordinate system.
+
   - Convert points between rectangular and polar form.
+
   - Convert equations between rectangular to polar form.
+
 - Graphs of Polar Equations
+
   - Graph polar equations of circles and other basic equations by hand by plotting points.
+
   - Identify roses, limacons, and lemniscates.
+
   - Graph polar equations using technology.
 
 ## Evidence of learning

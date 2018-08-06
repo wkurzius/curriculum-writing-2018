@@ -113,18 +113,30 @@ _Students will know..._
 _Students will be able to..._
 
 - Polynomial Equations
+
   - Solve polynomial equations algebraically and graphically.
+
   - Apply the Rational Root, Factor, and Remainder Theorems, and the Fundamental Theorem of Algebra.
+
   - Solve systems of equations with and without technology.
+
   - Use the discriminant to determine the nature of roots for quadratic and quadratic-like equations.
+
   - (HN) Find and apply sum and product of the roots of polynomial equations.
+
 - Rational Equations
+
   - Solve rational equations algebraically and graphically.
+
   - Use systems of linear equations to write the partial fraction decompositions of a rational expression.
+
 - Polynomial and Rational Inequalities
+
   - Solve polynomial and rational inequalities graphically and algebraically.
 - Other Types of Equations
+
   - Apply properties of logarithms and exponents to solve exponential and logarithmic equations.
+
   - Use technology to solve a variety of equations, including those where there is no appropriate analytical approach.
 
 ## Evidence of learning
