@@ -150,19 +150,15 @@ _Students will be able to..._
 
 ### Summative assessment
 
-
 - Extended constructed response
 
 - End of chapter assessments
 
 - Teacher designed tests
 
-- Alternate assessment
-
-  - Performance task
+- _Alternate assessment_: Performance task
 
 ### Formative assessments
-
 
 - Extennded constructed response (ECR) questions
 

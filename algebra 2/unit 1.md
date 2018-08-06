@@ -40,35 +40,23 @@
 
 ##### Reasoning with Equations and Inequalities
 
-- **A-REI.D.11**: Explain why the x-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_; find the solutions approximately,
-e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where _f(x)_ and/or _g(x)_ are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.
+- **A-REI.D.11**: Explain why the x-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_; find the solutions approximately, e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where _f(x)_ and/or _g(x)_ are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.
 
 #### High School — Functions
 
 ##### Interpretting Functions
 
-- **F-IF.B.4**:
-For a function that models a relationship between two quantities, interpret key features of graphs and
-tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the
-relationship.
-_Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
+- **F-IF.B.4**: For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. _Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
 
-- **F-IF.B.6**: Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a
-specified interval. Estimate the rate of change from a graph.
+- **F-IF.B.6**: Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.
 
 ##### Building Functions
 
-- **F-BF.A.1b**:
-Combine standard function types using arithmetic operations.
-_For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model._
+- **F-BF.A.1b**: Combine standard function types using arithmetic operations. _For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model._
 
-- **F-BF.B.3**: Identify the effect on the graph of replacing _f(x)_ by _f(x) + k_, _k f(x)_, _f(kx)_, and _f(x + k)_ for specific values of
-_k_ (both positive and negative); find the value of _k_ given the graphs. Experiment with cases and illustrate an
-explanation of the effects on the graph using technology.
-_Include recognizing even and odd functions from their graphs and algebraic expressions for them._
+- **F-BF.B.3**: Identify the effect on the graph of replacing _f(x)_ by _f(x) + k_, _k f(x)_, _f(kx)_, and _f(x + k)_ for specific values of _k_ (both positive and negative); find the value of _k_ given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. _Include recognizing even and odd functions from their graphs and algebraic expressions for them._
 
-- **F-BF.B.4a**: Solve an equation of the form f(x) = c for a simple function f that has an inverse and write
-an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1) for x ≠ 1._
+- **F-BF.B.4a**: Solve an equation of the form f(x) = c for a simple function f that has an inverse and write an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1) for x ≠ 1._
 
 #### High School — Statistics and Probability
 
@@ -113,8 +101,11 @@ an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1)
 ### Unit essential questions
 
 - What are the similarities and differences among transformations of all the parent functions?
+
 - Why is it important to study transformations of functions?
+
 - How can one function “undo” another function?
+
 - How can we use functions to model and analyze a real-life situation?
 
 ### Unit enduring understanding (Understanding)
@@ -122,6 +113,7 @@ an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1)
 _Students will understand..._
 
 - Relations and functions can be represented numerically, graphically, algebraically, and/or verbally.
+
 - Changes to a function in algebraic form result in predictable changes to its graph.
 
 ### Unit learning expectations (Knowledge)
@@ -129,8 +121,11 @@ _Students will understand..._
 _Students will know..._
 
 - Parents functions are functions with no transformations applied.
+
 - They features of parent functions.
+
 - The types of symmetry for the graph of a function.
+
 - Functions are undone by inverse functions.
 
 ### Unit learning expectations (Ability)
@@ -138,26 +133,47 @@ _Students will know..._
 _Students will be able to..._
 
 - Parent Graphs
+
   - Graph the parent functions of absolute value, quadratic, square root, cubic, cube root, exponential, logarithmic, rational (_f(x)=1/x_ and _f(x)=1/x²_) and apply translations, reflections, stretches and shrinks, and combinations of those transformations.
+
   - Write functions representing translations, reflections, stretches and shrinks, and combinations of those transformations.
+
 - Analyzing Graphs of Parent Functions
+
   - Identify domain and range using interval notation. (Insure understanding of interval notation as a compound inequality).
+
   - Identify intervals of increase and decrease.
+
   - Find the intercepts, zeros, extrema, asymptotes.
+
   - Describe the end behavior of the graph of a function.
+
   - Determine continuity
+
   - Identify functions as even, odd, or neither by examining symmetry.
+
 - Evaluating Functions Using the Graph
+
   - Using the calculator to evaluate.
+
   - Find the missing variable using the graph
+
 - Rate of Change
+
   - Determine the average rate of change for a specific part the graph
+
   - Compare rates of change between different parent functions
+
 - Inverse Functions
+
   - Determine if two functions are inverses given a graph (reflection over _y = x_)
+
   - Find inverse algebraically.
+
 - Introduction to Modeling and Regression
+
   - Use the GDC to create linear and quadratic regressions
+
   - Determine and interpret the coefficient of determination (_R²_)
 
 ## Evidence of learning
@@ -165,22 +181,33 @@ _Students will be able to..._
 ### Summative assessment
 
 - Extended constructed response
+
 - End of chapter assessments
+
 - Teacher designed tests
-- Alternate assessment
-  - Performance task
+
+- _Alternate assessment_: Performance task
 
 ### Formative assessments
 
 - Extennded constructed response (ECR) questions
+
 - Self and peer assessments
+
 - Communicators
+
 - Teacher created materials
+
 - Math journals
+
 - Graphic organizers
+
 - Teacher observations
+
 - Peer interaction
+
 - Do Nows & Exit Tickets
+
 - District formative assessments
 
 ## Lesson plans
@@ -198,15 +225,22 @@ _Students will be able to..._
 
 ### Unit resources
 
-- Holt McDougal Algebra 2 © 2012
+- Glencoe Precalculus © 2014
+
 - Online adaptive math practice
+
 - 21st Century Skills
+
   - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
+
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
 ### Technology integrations
 
 - Graphing calculator
+
 - Online graphing calculator (e.g. Desmos)
+
 - Online adaptive math practice (e.g. Khan Academy)
+
 - Online equation editor (e.g. Graspable Math)
