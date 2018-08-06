@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Algebra 2
+- **Content area**: Algebra 2
 
-**Unit title:** Inferences and conclusions from data
+- **Unit title**: Inferences and conclusions from data
 
-**Unit time frame:** 15 days
+- **Unit time frame**: 15 days
 
-**Target Course/Grade Level:** 11
+- **Target Course/Grade Level**: 11
 
-**Unit Summary:** This unit acts as an introduction to high school statistics. It touches on proper data gathering, normal distributions, z-scores, and making inferences from survey and experiments.
+- **Unit Summary**: This unit acts as an introduction to high school statistics. It touches on proper data gathering, normal distributions, z-scores, and making inferences from survey and experiments.
 
 ## New Jersey Student Learning Standards
 
@@ -18,79 +18,79 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP3** Construct viable arguments and critique the reasoning of others.
+- **MP3**: Construct viable arguments and critique the reasoning of others.
 
-**MP4** Model with mathematics.
+- **MP4**: Model with mathematics.
 
-**MP5** Use appropriate tools strategically.
+- **MP5**: Use appropriate tools strategically.
 
-**MP6** Attend to precision.
+- **MP6**: Attend to precision.
 
-**MP8** Look for and express regularity in repeated reasoning.
+- **MP8**: Look for and express regularity in repeated reasoning.
 
 #### High School — Statistics and Probability
 
 ##### Interpreting Categorical and Quantitative Data
 
-**S-ID.A.4**
+- **S-ID.A.4**:
 Use the mean and standard deviation of a data set to fit it to a normal distribution and to estimate population percentages. Recognize that there are data sets for which such a procedure is not appropriate. Use calculators, spreadsheets, and tables to estimate areas under the normal curve.
 
 ##### Making Inferences and Justifying Conclusions
 
-**S-IC.A.1**
+- **S-IC.A.1**:
 Understand statistics as a process for making inferences about population parameters based on a random sample from that population.
 
-**S-IC.A.2**
+- **S-IC.A.2**:
 Decide if a specified model is consistent with results from a given data-generating process, e.g., using simulation.
 _For example, a model says a spinning coin falls heads up with probability 0.5. Would a result of 5 tails in a row cause you to question the model?_
 
-**S-IC.B.3**
+- **S-IC.B.3**:
 Recognize the purposes of and differences among sample surveys, experiments, and observational studies; explain how randomization relates to each.
 
-**S-IC.B.4**
+- **S-IC.B.4**:
 Use data from a sample survey to estimate a population mean or proportion; develop a margin of error through the use of simulation models for random sampling.
 
-**S-IC.B.5**
+- **S-IC.B.5**:
 Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.
 
-**S-IC.B.6**
+- **S-IC.B.6**:
 Evaluate reports based on data.
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 

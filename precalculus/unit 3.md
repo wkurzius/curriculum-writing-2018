@@ -58,13 +58,13 @@
 
 - **N-VM.B.4b**: Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum.
 
-- **N-VM.B.4c**: Understand vector subtraction **_v_** – **_w_** as **_v_** + (–**_w_**), where –**_w_** is the additive inverse of **_w_**, with the same magnitude as **_w_** and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.
+- **N-VM.B.4c**: Understand vector subtraction **_v_** – **_w_** as **_v_** + (–**_w_**), where –**_w_** is the additive inverse of **_w_**, with the same magnitude as **_w_**: and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.
 
 - **N-VM.B.5**: Multiply a vector by a scalar.
 
 - **N-VM.B.5a**: Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as _c(v_x , v_y) = (cv_x , cv_y )_.
 
-- **N-VM.B.5b**: Compute the magnitude of a scalar multiple _c**v**_ using ||_c**v**_|| = |_c_|**_v_**. Compute the direction of _c**v**_ knowing that when |_c_|**_v_** ≠ 0, the direction of _c**v**_ is either along **_v_** (for _c_ > 0) or against **_v_** (for _c_ < 0).
+- **N-VM.B.5b**: Compute the magnitude of a scalar multiple _c**v**_ using ||_c**v**_|| = |_c_|**_v_**. Compute the direction of _c**v**_ knowing that when |_c_|**_v_** ≠ 0, the direction of _c**v**_ is either along **_v_** (for _c_ > 0) or against **_v_**: (for _c_ < 0).
 
 ### English Language Arts Companion Standards (Grade 9–10)
 

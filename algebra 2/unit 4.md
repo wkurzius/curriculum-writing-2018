@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Algebra 2
+- **Content area**: Algebra 2
 
-**Unit title:** Exponentials and logarithms
+- **Unit title**: Exponentials and logarithms
 
-**Unit time frame:** 20 days
+- **Unit time frame**: 20 days
 
-**Target Course/Grade Level:** 11
+- **Target Course/Grade Level**: 11
 
-**Unit Summary:** This unit begins with exponential growth and decay and introduces the natural base, _e_. It also introduces logarithms and their properties. It ends with using exponential and logarithmic functions for modeling.
+- **Unit Summary**: This unit begins with exponential growth and decay and introduces the natural base, _e_. It also introduces logarithms and their properties. It ends with using exponential and logarithmic functions for modeling.
 
 ## New Jersey Student Learning Standards
 
@@ -18,99 +18,99 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP4** Model with mathematics.
+- **MP4**: Model with mathematics.
 
-**MP5** Use appropriate tools strategically.
+- **MP5**: Use appropriate tools strategically.
 
-**MP6** Attend to precision.
+- **MP6**: Attend to precision.
 
-**MP7** Look for and make use of structure.
+- **MP7**: Look for and make use of structure.
 
 #### High School — Algebra
 
 ##### Seeing Structure in Expressions
 
-**A-SSE.B.3c** Use the properties of exponents to transform expressions for exponential functions.
+- **A-SSE.B.3c**: Use the properties of exponents to transform expressions for exponential functions.
 _For example the expression 1.15^t can be rewritten as (1.15^(1/12))^12t ≈ 1.012^12t to reveal the approximate equivalent monthly interest rate if the annual rate is 15%._
 
 #### High School — Functions
 
 ##### Interpretting Functions
 
-**F-IF.B.4**
+- **F-IF.B.4**:
 For a function that models a relationship between two quantities, interpret key features of graphs and tables
 in terms of the quantities, and sketch graphs showing key features given a verbal description of the
 relationship. Key features include: intercepts; intervals where the function is increasing, decreasing, positive,
 or negative; relative maximums and minimums; symmetries; end behavior; and periodicity.
 
-**F-IF.B.6**
+- **F-IF.B.6**:
 Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a
 specified interval. Estimate the rate of change from a graph.
 
-**F-IF.C.7e**
+- **F-IF.C.7e**:
 Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude.
 
-**F-IF.C.8b**
+- **F-IF.C.8b**:
 Use the properties of exponents to interpret expressions for exponential functions.
 _For example, identify percent rate of change in functions such as y = (1.02)^t , y = (0.97)^t , y = (1.01)^12t , y = (1.2)^t/10, and classify them as representing exponential growth or decay._
 
 ##### Building Functions
 
-**F-BF.A.1b**
+- **F-BF.A.1b**:
 Combine standard function types using arithmetic operations.
 _For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model._
 
-**F-BF.B.4a** Solve an equation of the form f(x) = c for a simple function f that has an inverse and write
+- **F-BF.B.4a**: Solve an equation of the form f(x) = c for a simple function f that has an inverse and write
 an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1) for x ≠ 1._
 
 ##### Linear and Exponential Models
 
-**F-LE.A.4** Understand the inverse relationship between exponents and logarithms. For exponential
+- **F-LE.A.4**: Understand the inverse relationship between exponents and logarithms. For exponential
 models, express as a logarithm the solution to _ab^ct = d_ where _a_, _c_, and _d_ are numbers and the base _b_ is 2, 10, or _e_; evaluate the logarithm using technology.
 
-**F-LE.B.5** Interpret the parameters in a linear or exponential function in terms of a context.
+- **F-LE.B.5**: Interpret the parameters in a linear or exponential function in terms of a context.
 
 #### High School — Statistics and Probability
 
-**S-ID.B.6a** Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
+- **S-ID.B.6a**: Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
 
 ##### Interpreting Categorical and Quantitative Data
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 

@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Algebra 2
+- **Content area**: Algebra 2
 
-**Unit title:** Trigonometric functions
+- **Unit title**: Trigonometric functions
 
-**Unit time frame:** 15 days
+- **Unit time frame**: 15 days
 
-**Target Course/Grade Level:** 11
+- **Target Course/Grade Level**: 11
 
-**Unit Summary:** This unit focuses on trigonometric functions and their properties along with their use in modeling real world situations. It ends with a look at trigonometric identities.
+- **Unit Summary**: This unit focuses on trigonometric functions and their properties along with their use in modeling real world situations. It ends with a look at trigonometric identities.
 
 ## New Jersey Student Learning Standards
 
@@ -18,84 +18,84 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP4** Model with mathematics.
+- **MP4**: Model with mathematics.
 
-**MP5** Use appropriate tools strategically.
+- **MP5**: Use appropriate tools strategically.
 
-**MP6** Attend to precision.
+- **MP6**: Attend to precision.
 
-**MP7** Look for and make use of structure.
+- **MP7**: Look for and make use of structure.
 
-**MP8** Look for and express regularity in repeated reasoning.
+- **MP8**: Look for and express regularity in repeated reasoning.
 
 #### High School — Functions
 
 ##### Interpretting Functions
 
-**F-IF.B.4**
+- **F-IF.B.4**:
 For a function that models a relationship between two quantities, interpret key features of graphs and
 tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the
 relationship.
 _Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
 
-**F-IF.C.7e**
+- **F-IF.C.7e**:
 Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude.
 
 ##### Trigonometric Functions
 
-**F-TF.A.1**
+- **F-TF.A.1**:
 Understand radian measure of an angle as the length of the arc on the unit circle subtended by the angle.
 
-**F-TF.A.2**
+- **F-TF.A.2**:
 Explain how the unit circle in the coordinate plane enables the extension of trigonometric functions to all real numbers, interpreted as radian measures of angles traversed counterclockwise around the unit circle.
 
-**F-TF.B.5**
+- **F-TF.B.5**:
 Choose trigonometric functions to model periodic phenomena with specified amplitude, frequency, and midline.
 
-**F-TF.C.8**
+- **F-TF.C.8**:
 Prove the Pythagorean identity sin²(θ) + cos²(θ) = 1 and use it to find sin(θ), cos(θ), or tan(θ) given sin(θ), cos(θ), or tan(θ) and the quadrant of the angle.
 
 #### High School — Statistics and Probability
 
 ##### Interpreting Categorical and Quantitative Data
 
-**S-ID.B.6a** Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
+- **S-ID.B.6a**: Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 

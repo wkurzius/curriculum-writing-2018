@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Algebra 2
+- **Content area**: Algebra 2
 
-**Unit title:** Probability
+- **Unit title**: Probability
 
-**Unit time frame:** 10 days
+- **Unit time frame**: 10 days
 
-**Target Course/Grade Level:** 11
+- **Target Course/Grade Level**: 11
 
-**Unit Summary:** This unit is a more complex look at probabilty, including looking at sample spaces, complementary events, and conditional events. It also applies probability to two-way tables to find marginal and conditional relative frequencies.
+- **Unit Summary**: This unit is a more complex look at probabilty, including looking at sample spaces, complementary events, and conditional events. It also applies probability to two-way tables to find marginal and conditional relative frequencies.
 
 ## New Jersey Student Learning Standards
 
@@ -18,74 +18,74 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP3** Construct viable arguments and critique the reasoning of others.
+- **MP3**: Construct viable arguments and critique the reasoning of others.
 
-**MP4** Model with mathematics.
+- **MP4**: Model with mathematics.
 
-**MP5** Use appropriate tools strategically.
+- **MP5**: Use appropriate tools strategically.
 
 #### High School — Statistics and Probability
 
 ##### Conditional Probability and the Rules of Probability
 
-**S-CP.A.1**
+- **S-CP.A.1**:
 Describe events as subsets of a sample space (the set of outcomes) using characteristics (or categories) of the outcomes, or as unions, intersections, or complements of other events (“or”, “and”, “not”)
 
-**S-CP.A.2**
+- **S-CP.A.2**:
 Understand that two events A and B are independent if the probability of A and B occurring together is the product of their probabilities, and use this characterization to determine if they are independent.
 
-**S-CP.A.3**
+- **S-CP.A.3**:
 Understand the conditional probability of _A_ given _B_ as _P(A_ and _B)/P(B)_, and interpret independence of _A_ and _B_ as saying that the conditional probability of _A_ given _B_ is the same as the probability of _A_, and the conditional probability of _B_ given _A_ is the same as the probability of _B_.
 
-**S-CP.A.4**
+- **S-CP.A.4**:
 Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities.
 _For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results._
 
-**S-CP.A.5**
+- **S-CP.A.5**:
 Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations.
 _For example, compare the chance of having lung cancer if you are a smoker with the chance of being a smoker if you have lung cancer._
 
-**S-CP.B.6**
+- **S-CP.B.6**:
 Find the conditional probability of _A_ given _B_ as the fraction of _B_’s outcomes that also belong to _A_, and interpret the answer in terms of the model.
 
-**S-CP.B.7**
+- **S-CP.B.7**:
 Apply the Addition Rule, _P(A_ or _B) = P(A) + P(B) – P(A_ and _B)_, and interpret the answer in terms of the model.
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 

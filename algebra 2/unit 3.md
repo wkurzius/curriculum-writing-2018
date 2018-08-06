@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Algebra 2
+- **Content area**: Algebra 2
 
-**Unit title:** Solving and intersections
+- **Unit title**: Solving and intersections
 
-**Unit time frame:** 15 days
+- **Unit time frame**: 15 days
 
-**Target Course/Grade Level:** 11
+- **Target Course/Grade Level**: 11
 
-**Unit Summary:** This unit takes concepts from the previous and applies them to solving polynomial, radical, and rational equations. It also looks at solving linear and nonlinear systems.
+- **Unit Summary**: This unit takes concepts from the previous and applies them to solving polynomial, radical, and rational equations. It also looks at solving linear and nonlinear systems.
 
 ## New Jersey Student Learning Standards
 
@@ -18,88 +18,88 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP4** Model with mathematics.
+- **MP4**: Model with mathematics.
 
-**MP5** Use appropriate tools strategically.
+- **MP5**: Use appropriate tools strategically.
 
-**MP6** Attend to precision.
+- **MP6**: Attend to precision.
 
-**MP7** Look for and make use of structure.
+- **MP7**: Look for and make use of structure.
 
-**MP8** Look for and express regularity in repeated reasoning.
+- **MP8**: Look for and express regularity in repeated reasoning.
 
 #### High School — Number and Quantity
 
 ##### The Complex Number System
 
-**N-CN.C.7** Solve quadratic equations with real coefficients that have complex solutions.
+- **N-CN.C.7**: Solve quadratic equations with real coefficients that have complex solutions.
 
 #### High School — Algebra
 
 ##### Creating Equations
 
-**A-CED.A.1** Create equations and inequalities in one variable and use them to solve problems. Include equations arising
+- **A-CED.A.1**: Create equations and inequalities in one variable and use them to solve problems. Include equations arising
 from linear and quadratic functions, and simple rational and exponential functions.
 
 ##### Reasoning with Equations and Inequalities
 
-**A-REI.A.1** Explain each step in solving a simple equation or systems of equations as following from the equality of
+- **A-REI.A.1**: Explain each step in solving a simple equation or systems of equations as following from the equality of
 numbers asserted at the previous step, starting from the assumption that the original equation has a
 solution. Construct a viable argument to justify a solution method. Reason about the nature of solutions.
 
-**A-REI.A.2** Solve simple rational and radical equations in one variable, and give examples showing how extraneous
+- **A-REI.A.2**: Solve simple rational and radical equations in one variable, and give examples showing how extraneous
 solutions may arise.
 
-**A-REI.B.4b** Solve quadratic equations in one variable.
+- **A-REI.B.4b**: Solve quadratic equations in one variable.
 Solve quadratic equations by inspection (e.g. for _x² = 49_), taking square roots, completing the square, the quadratic formula and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as _a ± bi_ for real numbers _a_ and _b_.
 
-**A-REI.C.6** Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on linear equations
+- **A-REI.C.6**: Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on linear equations
 in three variables.
 
-**A-REI.C.7** Solve a simple system consisting of a linear equation and a quadratic equation in two variables algebraically
+- **A-REI.C.7**: Solve a simple system consisting of a linear equation and a quadratic equation in two variables algebraically
 and graphically.
 _For example, find the points of intersection between the line y = −3x and the circle x² + y² = 3._
 
-**A-REI.D.11** Explain why the _x_-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_;
+- **A-REI.D.11**: Explain why the _x_-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_;
 find the solutions approximately, e.g. using technology to graph the functions, make tables of values, or find successive approximations.
 Include cases where _f(x)_ and/or _g(x)_ are linear, polynomial, rational, absolute value, exponential, and logarithmic
 functions.
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 

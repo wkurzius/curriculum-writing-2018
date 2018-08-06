@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Algebra 2
+- **Content area**: Algebra 2
 
-**Unit title:** Sequences and series
+- **Unit title**: Sequences and series
 
-**Unit time frame:** 10 days
+- **Unit time frame**: 10 days
 
-**Target Course/Grade Level:** 11
+- **Target Course/Grade Level**: 11
 
-**Unit Summary:** This unit focuses on arithmetic and geometric sequences and writing rules for them along with their analysis. It also introduces infinite gemotric series and writing recursive rules for series.
+- **Unit Summary**: This unit focuses on arithmetic and geometric sequences and writing rules for them along with their analysis. It also introduces infinite gemotric series and writing recursive rules for series.
 
 ## New Jersey Student Learning Standards
 
@@ -18,27 +18,27 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP4** Model with mathematics.
+- **MP4**: Model with mathematics.
 
-**MP7** Look for and make use of structure.
+- **MP7**: Look for and make use of structure.
 
-**MP8** Look for and express regularity in repeated reasoning.
+- **MP8**: Look for and express regularity in repeated reasoning.
 
 #### High School — Number and Quantity
 
 ##### Quantities
 
-**N-Q.A.2** Define appropriate quantities for the purpose of descriptive modeling.
+- **N-Q.A.2**: Define appropriate quantities for the purpose of descriptive modeling.
 
 #### High School — Algebra
 
 ##### Seeing Structure in Expressions
 
-**A-SSE.B.4**
+- **A-SSE.B.4**:
 Derive and/or explain the formula for the sum of a finite geometric series (when the common ratio is not 1), and use the formula to solve problems.
 _For example, calculate mortgage payments._
 
@@ -46,54 +46,54 @@ _For example, calculate mortgage payments._
 
 ##### Interpretting Functions
 
-**F-IF.A.3**
+- **F-IF.A.3**:
 Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers.
 _For example, the Fibonacci sequence is defined recursively by f(0) = f(1) = 1, f(n+1) = f(n) + f(n-1) for n ≥ 1._
 
 ##### Building Functions
 
-**F-BF.A.1a**
+- **F-BF.A.1a**:
 Determine an explicit expression, a recursive process, or steps for calculation from a context.
 
-**F-BF.A.2**
+- **F-BF.A.2**:
 Write arithmetic and geometric sequences both recursively and with an explicit formula, use them to model situations, and translate between the two forms.
 
 ##### Linear and Exponential Models
 
-**F-LE.A.2**
+- **F-LE.A.2**:
 Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table)
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 

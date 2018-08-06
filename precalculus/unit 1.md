@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Precalculus
+- **Content area**: Precalculus
 
-**Unit title:** Applications of Trigonometric Functions
+- **Unit title**: Applications of Trigonometric Functions
 
-**Unit time frame:** 4–6 weeks
+- **Unit time frame**: 4–6 weeks
 
-**Target Course/Grade Level:** 11–12
+- **Target Course/Grade Level**: 11–12
 
-**Unit Summary:** This unit focuses on the trigonometric functions and how they apply to the unit circle and right triangles. Time is also spent on the laws of sines and cosines along with the graphs of trignometric functions and their inverses.
+- **Unit Summary**: This unit focuses on the trigonometric functions and how they apply to the unit circle and right triangles. Time is also spent on the laws of sines and cosines along with the graphs of trignometric functions and their inverses.
 
 ## New Jersey Student Learning Standards
 
@@ -38,59 +38,59 @@
 
 ##### Trigonometric Functions
 
-**F-TF.A.3**
+- **F-TF.A.3**:
 Use special triangles to determine geometrically the values of sine, cosine, tangent for π/3, π/4 and π/6, and use the unit circle to express the values of sine, cosine, and tangent for _x_, π+_x_, and 2π–_x_ in terms of their values for _x_, where _x_ is any real number.
 
-**F-TF.A.4**
+- **F-TF.A.4**:
 Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.
 
-**F-TF.B.6**
+- **F-TF.B.6**:
 Understand that restricting a trigonometric function to a domain on which it is always increasing or always decreasing allows its inverse to be constructed.
 
 #### High School — Geometry
 
 ##### Similarity, Right Triangles, and Trigonometry
 
-**G-SRT.D.9**
+- **G-SRT.D.9**:
 Derive the formula _A_ = 1/2 _ab_ sin(_C_) for the area of a triangle by drawing an auxiliary line from a vertex perpendicular to the opposite side.
 
-**G-SRT.D.10**
+- **G-SRT.D.10**:
 Prove the Laws of Sines and Cosines and use them to solve problems.
 
-**G-SRT.D.11**
+- **G-SRT.D.11**:
 Understand and apply the Law of Sines and the Law of Cosines to find unknown measurements in right and non-right triangles (e.g., surveying problems, resultant forces).
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 

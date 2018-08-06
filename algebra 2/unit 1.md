@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Algebra 2
+- **Content area**: Algebra 2
 
-**Unit title:** Functions and transformations
+- **Unit title**: Functions and transformations
 
-**Unit time frame:** 20 days
+- **Unit time frame**: 20 days
 
-**Target Course/Grade Level:** 11
+- **Target Course/Grade Level**: 11
 
-**Unit Summary:** This unit looks at graphs of parent functions and their features (e.g. domain, intercepts) and also how algebraic changes apply transformations to the function’s graph. Time is also spent on evaluating functions and determining the inverse of a function.
+- **Unit Summary**: This unit looks at graphs of parent functions and their features (e.g. domain, intercepts) and also how algebraic changes apply transformations to the function’s graph. Time is also spent on evaluating functions and determining the inverse of a function.
 
 ## New Jersey Student Learning Standards
 
@@ -18,95 +18,95 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP4** Model with mathematics.
+- **MP4**: Model with mathematics.
 
-**MP5** Use appropriate tools strategically.
+- **MP5**: Use appropriate tools strategically.
 
-**MP7** Look for and make use of structure.
+- **MP7**: Look for and make use of structure.
 
-**MP8** Look for and express regularity in repeated reasoning.
+- **MP8**: Look for and express regularity in repeated reasoning.
 
 #### High School — Number and Quantity
 
 ##### Quantities
 
-**N-Q.A.2** Define appropriate quantities for the purpose of descriptive modeling.
+- **N-Q.A.2**: Define appropriate quantities for the purpose of descriptive modeling.
 
 #### High School — Algebra
 
 ##### Reasoning with Equations and Inequalities
 
-**A-REI.D.11** Explain why the x-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_; find the solutions approximately,
+- **A-REI.D.11**: Explain why the x-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_; find the solutions approximately,
 e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where _f(x)_ and/or _g(x)_ are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.
 
 #### High School — Functions
 
 ##### Interpretting Functions
 
-**F-IF.B.4**
+- **F-IF.B.4**:
 For a function that models a relationship between two quantities, interpret key features of graphs and
 tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the
 relationship.
 _Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
 
-**F-IF.B.6** Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a
+- **F-IF.B.6**: Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a
 specified interval. Estimate the rate of change from a graph.
 
 ##### Building Functions
 
-**F-BF.A.1b**
+- **F-BF.A.1b**:
 Combine standard function types using arithmetic operations.
 _For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model._
 
-**F-BF.B.3** Identify the effect on the graph of replacing _f(x)_ by _f(x) + k_, _k f(x)_, _f(kx)_, and _f(x + k)_ for specific values of
+- **F-BF.B.3**: Identify the effect on the graph of replacing _f(x)_ by _f(x) + k_, _k f(x)_, _f(kx)_, and _f(x + k)_ for specific values of
 _k_ (both positive and negative); find the value of _k_ given the graphs. Experiment with cases and illustrate an
 explanation of the effects on the graph using technology.
 _Include recognizing even and odd functions from their graphs and algebraic expressions for them._
 
-**F-BF.B.4a** Solve an equation of the form f(x) = c for a simple function f that has an inverse and write
+- **F-BF.B.4a**: Solve an equation of the form f(x) = c for a simple function f that has an inverse and write
 an expression for the inverse. _For example, f(x) = 2x³ or f(x) = (x+1)/(x–1) for x ≠ 1._
 
 #### High School — Statistics and Probability
 
 ##### Interpreting Categorical and Quantitative Data
 
-**S-ID.B.6a** Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
+- **S-ID.B.6a**: Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 

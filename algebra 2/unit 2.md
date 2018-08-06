@@ -2,15 +2,15 @@
 
 ## Unit Overview
 
-**Content area:** Algebra 2
+- **Content area**: Algebra 2
 
-**Unit title:** Equivalent forms
+- **Unit title**: Equivalent forms
 
-**Unit time frame:** 20 days
+- **Unit time frame**: 20 days
 
-**Target Course/Grade Level:** 11
+- **Target Course/Grade Level**: 11
 
-**Unit Summary:** This unit looks at the different ways to rewrite a function and what information each conveys. It then moves to applying arithemtic operations to polynomials, rational expressions. Lastly, it introduces the complex number system and definition of _i_.
+- **Unit Summary**: This unit looks at the different ways to rewrite a function and what information each conveys. It then moves to applying arithemtic operations to polynomials, rational expressions. Lastly, it introduces the complex number system and definition of _i_.
 
 ## New Jersey Student Learning Standards
 
@@ -18,76 +18,76 @@
 
 #### Standards for Mathematical Practice
 
-**MP1** Make sense of problems and persevere in solving them.
+- **MP1**: Make sense of problems and persevere in solving them.
 
-**MP2** Reason abstractly and quantitatively.
+- **MP2**: Reason abstractly and quantitatively.
 
-**MP6** Attend to precision.
+- **MP6**: Attend to precision.
 
-**MP7** Look for and make use of structure.
+- **MP7**: Look for and make use of structure.
 
-**MP8** Look for and express regularity in repeated reasoning.
+- **MP8**: Look for and express regularity in repeated reasoning.
 
 #### High School — Number and Quantity
 
 ##### The Real Number System
 
-**N-RN.A.1** Explain how the definition of the meaning of rational exponents follows from extending the
+- **N-RN.A.1**: Explain how the definition of the meaning of rational exponents follows from extending the
 properties of integer exponents to those values, allowing for a notation for radicals in terms
 of rational exponents.
 _For example, we define 5^(1/3) to be the cube root of 5 because we want (5^(1/3))^3 = 5(^1/3)^3 to hold, so (5^(1/3))^3 must equal 5._
 
-**N-RN.A.2** Rewrite expressions involving radicals and rational exponents using the properties of
+- **N-RN.A.2**: Rewrite expressions involving radicals and rational exponents using the properties of
 exponents.
 
 ##### The Complex Number System
 
-**N-CN.A.1** Know there is a complex number _i_ such that _i² = –1_, and every complex number has the form
+- **N-CN.A.1**: Know there is a complex number _i_ such that _i² = –1_, and every complex number has the form
 _a + bi_ with _a_ and _b_ real.
 
-**N-CN.A.2** Use the relation _i² = –1_ and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers.
+- **N-CN.A.2**: Use the relation _i² = –1_ and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers.
 
 #### High School — Algebra
 
 ##### Seeing Structure in Expressions
 
-**A-SSE.A.2** Use the structure of an expression to identify ways to rewrite it.
+- **A-SSE.A.2**: Use the structure of an expression to identify ways to rewrite it.
 _For example, see x⁴ – y⁴ as (x²)² – (y²)² , thus recognizing it as a difference of squares that can be factored as (x² – y²)(x² + y²)._
 
-**A-SSE.B.3c** Use the properties of exponents to transform expressions for exponential functions.
+- **A-SSE.B.3c**: Use the properties of exponents to transform expressions for exponential functions.
 _For example the expression 1.15^t can be rewritten as (1.15^(1/12))^12t ≈ 1.012^12t to reveal the approximate equivalent monthly interest rate if the annual rate is 15%._
 
 ### English Language Arts Companion Standards (Grade 9–10)
 
-**NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
+- **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
-**NJSLSA.R4** Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
+- **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
 ### Technology — Educational Technology
 
-**8.1.12.B.2** Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
+- **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
 ### 21st Century Life and Careers
 
 #### Career Ready Practices
 
-**CRP2** Apply appropriate academic and technical skills.
+- **CRP2**: Apply appropriate academic and technical skills.
 
-**CRP4** Communicate clearly and effectively and with reason.
+- **CRP4**: Communicate clearly and effectively and with reason.
 
-**CRP6** Demonstrate creativity and innovation.
+- **CRP6**: Demonstrate creativity and innovation.
 
-**CRP8** Utilize critical thinking to make sense of problems and persevere in solving them.
+- **CRP8**: Utilize critical thinking to make sense of problems and persevere in solving them.
 
-**CRP10** Plan education and career paths aligned to personal goals.
+- **CRP10**: Plan education and career paths aligned to personal goals.
 
-**CRP11** Use technology to enhance productivity.
+- **CRP11**: Use technology to enhance productivity.
 
 #### Career Awareness, Exploration, and Preparation
 
-**9.2.12.C.1** Review career goals and determine steps necessary for attainment.
+- **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
-**9.2.12.C.9** Analyze the correlation between personal and financial behavior and employability.
+- **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
 ## Learning expectations
 
