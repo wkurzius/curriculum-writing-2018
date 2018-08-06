@@ -8,7 +8,7 @@
 
 - **Unit time frame**: 3–4 weeks
 
-- **Target Course/Grade Level**: 11
+- **Target Course/Grade Level**: 11–12
 
 - **Unit Summary**: This unit introduces limits and derivitives. Students will find limits numerically first, then move to algebraic approaches. They then will find instantaneous rates of change and derivitives.
 
@@ -48,7 +48,7 @@
 
 - **F-BF.B.3**: Identify the effect on the graph of replacing _f(x)_ by _f(x) + k_, _k f(x)_, _f(kx)_, and _f(x + k)_ for specific values of _k_ (both positive and negative); find the value of _k_ given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. _Include recognizing even and odd functions from their graphs and algebraic expressions for them._
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

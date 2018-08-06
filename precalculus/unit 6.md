@@ -8,7 +8,7 @@
 
 - **Unit time frame**: 3–5 weeks
 
-- **Target Course/Grade Level**: 11
+- **Target Course/Grade Level**: 11–12
 
 - **Unit Summary**: This unit focuses on the relationship between functions and their graphs. It looks at the parent functions and how transformations are applied and their effect on the graph of the function.
 
@@ -68,7 +68,7 @@
 
 - **F-BF.B.5**: Use the inverse relationship between exponents and logarithms to solve problems involving logarithms and exponents .
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

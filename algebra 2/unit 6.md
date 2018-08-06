@@ -93,7 +93,7 @@ _For example, build a function that models the temperature of a cooling body by 
 
 **S-ID.B.6a** Fit a function to the data (including with the use of technology); use functions fitted to data to solve problems in the context of the data. _Use given functions or choose a function suggested by the context. Emphasize linear and exponential models._
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 **NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

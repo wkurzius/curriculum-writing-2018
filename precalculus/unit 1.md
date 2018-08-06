@@ -8,7 +8,7 @@
 
 **Unit time frame:** 4–6 weeks
 
-**Target Course/Grade Level:** 11
+**Target Course/Grade Level:** 11–12
 
 **Unit Summary:** This unit focuses on the trigonometric functions and how they apply to the unit circle and right triangles. Time is also spent on the laws of sines and cosines along with the graphs of trignometric functions and their inverses.
 
@@ -33,6 +33,7 @@
 - **MP7**: Look for and make use of structure.
 
 - **MP8**: Look for and express regularity in repeated reasoning.
+
 #### High School — Functions
 
 ##### Trigonometric Functions
@@ -59,7 +60,7 @@ Prove the Laws of Sines and Cosines and use them to solve problems.
 **G-SRT.D.11**
 Understand and apply the Law of Sines and the Law of Cosines to find unknown measurements in right and non-right triangles (e.g., surveying problems, resultant forces).
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 **NJSLSA.R1** Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
@@ -180,14 +181,21 @@ _Students will be able to..._
 ### Unit resources
 
 - Holt McDougal Algebra 2 © 2012
+
 - Online adaptive math practice
+
 - 21st Century Skills
+
   - [Critical Thinking and Problem Solving](http://www.p21.org/about-us/p21-framework/260)
+
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
 ### Technology integrations
 
 - Graphing calculator
+
 - Online graphing calculator (e.g. Desmos)
+
 - Online adaptive math practice (e.g. Khan Academy)
+
 - Online equation editor (e.g. Graspable Math)

@@ -8,7 +8,7 @@
 
 - **Unit time frame**: 1–2 weeks
 
-- **Target Course/Grade Level**: 11
+- **Target Course/Grade Level**: 11–12
 
 - **Unit Summary**: This unit begins with parametric equations and how they can be used to model more complex situations. It then takes a look at the polar coordiante systems and compares it to rectangular and parametric coordiante systems.
 
@@ -46,7 +46,7 @@
 
 - **A-CED.A.2**: Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

@@ -8,7 +8,7 @@
 
 - **Unit time frame**: 3–4 weeks
 
-- **Target Course/Grade Level**: 11
+- **Target Course/Grade Level**: 11–12
 
 - **Unit Summary**: This unit introduces vectors along with the operations associtated with them. It also focuses on complex numbers and the association between them and trigonometry and vectors.
 
@@ -66,7 +66,7 @@
 
 - **N-VM.B.5b**: Compute the magnitude of a scalar multiple _c**v**_ using ||_c**v**_|| = |_c_|**_v_**. Compute the direction of _c**v**_ knowing that when |_c_|**_v_** ≠ 0, the direction of _c**v**_ is either along **_v_** (for _c_ > 0) or against **_v_** (for _c_ < 0).
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

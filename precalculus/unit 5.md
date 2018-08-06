@@ -8,7 +8,7 @@
 
 - **Unit time frame**: 2–3 weeks
 
-- **Target Course/Grade Level**: 11
+- **Target Course/Grade Level**: 11–12
 
 - **Unit Summary**: This unit begins with sequences and their relationship with functions with a focus on arithmetic sequences and linear functions and geometric sequences and exponential functions. It then moves on to finding sums of infinite series.
 
@@ -56,7 +56,7 @@
 
 - **F-LE.A.2**: Construct linear and exponential functions, including arithmetic and geometric sequences, given a graph, a description of a relationship, or two input-output pairs (include reading these from a table).
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

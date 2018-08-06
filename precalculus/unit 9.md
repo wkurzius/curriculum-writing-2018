@@ -1,16 +1,16 @@
-# Unit #: NAME
+# Unit 9: Probability
 
 ## Unit Overview
 
 - **Content area**: Precalculus
 
-- **Unit title**: !!!!!
+- **Unit title**: Probability
 
-- **Unit time frame**: !!!TODO!!!
+- **Unit time frame**: 3 weeks
 
 - **Target Course/Grade Level**: 11–12
 
-- **Unit Summary**: !!!!!
+- **Unit Summary**: This  unit takes has students calculating probabilities of different types of events and then moves to looking at data tables and distributions and using them to calculate probabilities.
 
 ## New Jersey Student Learning Standards
 

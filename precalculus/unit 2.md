@@ -8,7 +8,7 @@
 
 - **Unit time frame**: 3–5 weeks
 
-- **Target Course/Grade Level**: 11
+- **Target Course/Grade Level**: 11–12
 
 - **Unit Summary**: This unit focuses on trigonometric identities and applying them to solving trigonometric equations.
 
@@ -44,7 +44,7 @@
 
 - **F-TF.C.9**: Prove the addition and subtraction formulas for sine, cosine, and tangent and use them to solve problems.
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
@@ -192,7 +192,6 @@ _Students will be able to..._
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
 ### Technology integrations
-
 
 - Graphing calculator
 

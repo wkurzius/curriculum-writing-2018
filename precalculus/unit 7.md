@@ -8,7 +8,7 @@
 
 - **Unit time frame**: 4–5 weeks
 
-- **Target Course/Grade Level**: 11
+- **Target Course/Grade Level**: 11–12
 
 - **Unit Summary**: This unit's focus is on solving polynomial, rational and other types of equations. It introduces a number of tools to assign in solving polynomials such as the Rational Root and Factor theorems.
 
@@ -50,7 +50,7 @@
 
 - **A-REI.D.11**: Explain why the x-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_; find the solutions approximately, e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where _f(x)_ and/or _g(x)_ are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.
 
-### English Language Arts Companion Standards (Grade 9-10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
