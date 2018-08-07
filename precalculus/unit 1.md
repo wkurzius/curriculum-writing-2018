@@ -212,7 +212,7 @@ _Students will be able to..._
 
 ### Unit resources
 
-- Holt McDougal Algebra 2 © 2012
+- Glencoe Precalculus © 2014
 
 - Online adaptive math practice
 

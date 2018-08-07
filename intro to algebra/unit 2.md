@@ -195,7 +195,7 @@ _Students will be able to..._
 
 ### Unit resources
 
-- Glencoe Precalculus © 2014
+- Prentice Hall Algebra I © 2011
 
 - Online adaptive math practice
 

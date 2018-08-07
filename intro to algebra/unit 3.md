@@ -138,7 +138,6 @@ _Students will be able to..._
 
 ### Formative assessments
 
-
 - Extended constructed response (ECR) questions
 
 - Self and peer assessments
