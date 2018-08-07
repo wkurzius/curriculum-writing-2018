@@ -1,6 +1,6 @@
-## Unit 8: Inferences and conclusions from data
+# Unit 8: Inferences and conclusions from data
 
-### Unit Overview
+## Unit Overview
 
 - **Content area**: Algebra 2
 
@@ -12,11 +12,11 @@
 
 - **Unit Summary**: This unit acts as an introduction to high school statistics. It touches on proper data gathering, normal distributions, z-scores, and making inferences from survey and experiments.
 
-### New Jersey Student Learning Standards
+## New Jersey Student Learning Standards
 
-#### New Jersey Student Learning Standards for Mathematics
+### New Jersey Student Learning Standards for Mathematics
 
-##### Standards for Mathematical Practice
+#### Standards for Mathematical Practice
 
 - **MP1**: Make sense of problems and persevere in solving them.
 
@@ -32,13 +32,13 @@
 
 - **MP8**: Look for and express regularity in repeated reasoning.
 
-##### High School — Statistics and Probability
+#### High School — Statistics and Probability
 
-###### Interpreting Categorical and Quantitative Data
+##### Interpreting Categorical and Quantitative Data
 
 - **S-ID.A.4**: Use the mean and standard deviation of a data set to fit it to a normal distribution and to estimate population percentages. Recognize that there are data sets for which such a procedure is not appropriate. Use calculators, spreadsheets, and tables to estimate areas under the normal curve.
 
-###### Making Inferences and Justifying Conclusions
+##### Making Inferences and Justifying Conclusions
 
 - **S-IC.A.1**: Understand statistics as a process for making inferences about population parameters based on a random sample from that population.
 
@@ -52,19 +52,19 @@
 
 - **S-IC.B.6**: Evaluate reports based on data.
 
-#### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-#### Technology — Educational Technology
+### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-#### 21st Century Life and Careers
+### 21st Century Life and Careers
 
-##### Career Ready Practices
+#### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -78,15 +78,15 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-##### Career Awareness, Exploration, and Preparation
+#### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-### Learning expectations
+## Learning expectations
 
-#### Unit essential questions
+### Unit essential questions
 
 - What does it mean to make an inference?
 
@@ -94,7 +94,7 @@
 
 - How can and when should you use a sample data to infer a conclusion about a population?
 
-#### Unit enduring understanding (Understanding)
+### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -102,7 +102,7 @@ _Students will understand..._
 
 - Poorly data collection introduces bias that cannot be overcome by statistical methods.
 
-#### Unit learning expectations (Knowledge)
+### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -114,7 +114,7 @@ _Students will know..._
 
 - The binomial theorem.
 
-#### Unit learning expectations (Ability)
+### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -166,9 +166,9 @@ _Students will be able to..._
 
   - Make inferences about a treatment.
 
-### Evidence of learning
+## Evidence of learning
 
-#### Summative assessment
+### Summative assessment
 
 - Extended constructed response
 
@@ -178,7 +178,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-#### Formative assessments
+### Formative assessments
 
 - Extended constructed response (ECR) questions
 
@@ -200,7 +200,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-### Lesson plans
+## Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -211,9 +211,9 @@ _Students will be able to..._
 |Making Inferences from Sample Surveys|3|
 |Making Inferences from Experiments   |3|
 
-### Teacher notes
+## Teacher notes
 
-#### Unit resources
+### Unit resources
 
 - Glencoe Precalculus © 2014
 
@@ -225,7 +225,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-#### Technology integrations
+### Technology integrations
 
 - Graphing calculator
 

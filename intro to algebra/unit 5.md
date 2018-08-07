@@ -1,6 +1,6 @@
-## Unit 5: Linear functions
+# Unit 5: Linear functions
 
-### Unit Overview
+## Unit Overview
 
 - **Content area**: Introduction to Algebra
 
@@ -12,11 +12,11 @@
 
 - **Unit Summary**: The unit begins with a look at rate of change and slope followed by direct variation. It then moves on to the different forms of linear equations including slope-intercept, point-slope, and standard forms. It follows with determing if lines are parallel or pendicular, then with scatter plots and trend lines and lastly absolute value functions.
 
-### New Jersey Student Learning Standards
+## New Jersey Student Learning Standards
 
-#### New Jersey Student Learning Standards for Mathematics
+### New Jersey Student Learning Standards for Mathematics
 
-##### Standards for Mathematical Practice
+#### Standards for Mathematical Practice
 
 - **MP1**: Make sense of problems and persevere in solving them.
 
@@ -24,29 +24,29 @@
 
 - **MP4**: Model with mathematics.
 
-##### High School — Number and Quantity
+#### High School — Number and Quantity
 
-###### Quantities
+##### Quantities
 
 - **N-Q.A.1**: Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
 
 - **N-Q.A.2**: Define appropriate quantities for the purpose of descriptive modeling.
 
-##### High School — Algebra
+#### High School — Algebra
 
-###### Seeing structure in expressions
+##### Seeing structure in expressions
 
 - **A-SSE.A.1a**: Interpret parts of an expression, such as terms, factors, and coefficients.
 
 - **A-SSE.A.2**: Use the structure of an expression to identify ways to rewrite it. _For example, see x⁴ – y⁴ as (x²)² – (y²)² , thus recognizing it as a difference of squares that can be factored as (x² – y²)(x² + y²)._
 
-###### Creating equations
+##### Creating equations
 
 - **A-CED.A.2**: Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.
 
-##### High School — Functions
+#### High School — Functions
 
-###### Interpreting functions
+##### Interpreting functions
 
 - **F-IF.B.4**: For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. _Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
 
@@ -56,23 +56,23 @@
 
 - **F-IF.C.7b**: Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions.
 
-###### Building functions
+##### Building functions
 
 - **F-BF.A.1a**: Determine an explicit expression, a recursive process, or steps for calculation from a context.
 
-#### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-#### Technology — Educational Technology
+### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-#### 21st Century Life and Careers
+### 21st Century Life and Careers
 
-##### Career Ready Practices
+#### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -86,15 +86,15 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-##### Career Awareness, Exploration, and Preparation
+#### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-### Learning expectations
+## Learning expectations
 
-#### Unit essential questions
+### Unit essential questions
 
 - What does the slope of a line indicate about the line?
 
@@ -102,7 +102,7 @@
 
 - How can you make predctions based on a scatter plot?
 
-#### Unit enduring understanding (Understanding)
+### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -114,7 +114,7 @@ _Students will understand..._
 
 - Two sets of numerical data can be graphed as ordered pairs. If the two sets of data are related, a line on the graph can be used to estimate or predict values.
 
-#### Unit learning expectations (Knowledge)
+### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -124,7 +124,7 @@ _Students will know..._
 
 - A line on a graph can be represented by a linear equation. Forms of linear equations include the slope-intercept, point-slope, and standard forms.
 
-#### Unit learning expectations (Ability)
+### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -156,9 +156,9 @@ _Students will be able to..._
 
 - Translate the graph of an absolute value function.
 
-### Evidence of learning
+## Evidence of learning
 
-#### Summative assessment
+### Summative assessment
 
 - Extended constructed response
 
@@ -168,7 +168,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-#### Formative assessments
+### Formative assessments
 
 - Extended constructed response (ECR) questions
 
@@ -190,7 +190,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-### Lesson plans
+## Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -203,9 +203,9 @@ _Students will be able to..._
 |Scatter plots and trend lines    |2|
 |Graphing absolute value functions|4|
 
-### Teacher notes
+## Teacher notes
 
-#### Unit resources
+### Unit resources
 
 - Glencoe Precalculus © 2014
 
@@ -217,7 +217,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-#### Technology integrations
+### Technology integrations
 
 - Graphing calculator
 

@@ -1,6 +1,6 @@
-## Unit 4: Polar and Parametric Equations
+# Unit 4: Polar and Parametric Equations
 
-### Unit Overview
+## Unit Overview
 
 - **Content area**: Precalculus
 
@@ -12,11 +12,11 @@
 
 - **Unit Summary**: This unit begins with parametric equations and how they can be used to model more complex situations. It then takes a look at the polar coordiante systems and compares it to rectangular and parametric coordiante systems.
 
-### New Jersey Student Learning Standards
+## New Jersey Student Learning Standards
 
-#### New Jersey Student Learning Standards for Mathematics
+### New Jersey Student Learning Standards for Mathematics
 
-##### Standards for Mathematical Practice
+#### Standards for Mathematical Practice
 
 - **MP1**: Make sense of problems and persevere in solving them.
 
@@ -34,31 +34,31 @@
 
 - **MP8**: Look for and express regularity in repeated reasoning.
 
-##### High School — Algebra
+#### High School — Algebra
 
-###### Seeing Structure in Expressions
+##### Seeing Structure in Expressions
 
 - **A-SSE.A.2**: Use the structure of an expression to identify ways to rewrite it. _For example, see x⁴ – y⁴ as (x²)² – (y²)² , thus recognizing it as a difference of squares that can be factored as (x² – y²)(x² + y²)._
 
 - **A-SSE.B.3**: Choose and produce an equivalent form of an expression to reveal and explain properties of the quantity represented by the expression.
 
-###### Creating Equations
+##### Creating Equations
 
 - **A-CED.A.2**: Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.
 
-#### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-#### Technology — Educational Technology
+### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-#### 21st Century Life and Careers
+### 21st Century Life and Careers
 
-##### Career Ready Practices
+#### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -72,21 +72,21 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-##### Career Awareness, Exploration, and Preparation
+#### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-### Learning expectations
+## Learning expectations
 
-#### Unit essential questions
+### Unit essential questions
 
 - When is the parametric form of an equation more useful than a rectangular equation, and what additional information can it provide?
 
 - What are the advantages and disadvantages of rectangular, parametric, and polar coordinate systems?
 
-#### Unit enduring understanding (Understanding)
+### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -94,7 +94,7 @@ _Students will understand..._
 
 - Mathematicians use many different graphing systems to analyze the relationship between variables, including rectangular, polar and parametric.
 
-#### Unit learning expectations (Knowledge)
+### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -102,7 +102,7 @@ _Students will know..._
 
 - Polar coordinates consist of distance and angle
 
-#### Unit learning expectations (Ability)
+### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -132,9 +132,9 @@ _Students will be able to..._
 
   - Graph polar equations using technology.
 
-### Evidence of learning
+## Evidence of learning
 
-#### Summative assessment
+### Summative assessment
 
 - Extended constructed response
 
@@ -144,7 +144,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-#### Formative assessments
+### Formative assessments
 
 - Extended constructed response (ECR) questions
 
@@ -166,7 +166,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-### Lesson plans
+## Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -174,9 +174,9 @@ _Students will be able to..._
 |Polar Coordinates        |5|
 |Graphs of Polar Equations|5|
 
-### Teacher notes
+## Teacher notes
 
-#### Unit resources
+### Unit resources
 
 - Glencoe Precalculus © 2014
 
@@ -188,7 +188,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-#### Technology integrations
+### Technology integrations
 
 - Graphing calculator
 

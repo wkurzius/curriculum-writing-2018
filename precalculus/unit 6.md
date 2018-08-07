@@ -1,6 +1,6 @@
-## Unit 6: Functions and Their Graphs
+# Unit 6: Functions and Their Graphs
 
-### Unit Overview
+## Unit Overview
 
 - **Content area**: Precalculus
 
@@ -12,11 +12,11 @@
 
 - **Unit Summary**: This unit focuses on the relationship between functions and their graphs. It looks at the parent functions and how transformations are applied and their effect on the graph of the function.
 
-### New Jersey Student Learning Standards
+## New Jersey Student Learning Standards
 
-#### New Jersey Student Learning Standards for Mathematics
+### New Jersey Student Learning Standards for Mathematics
 
-##### Standards for Mathematical Practice
+#### Standards for Mathematical Practice
 
 - **MP1**: Make sense of problems and persevere in solving them.
 
@@ -34,15 +34,15 @@
 
 - **MP8**: Look for and express regularity in repeated reasoning.
 
-##### High School — Algebra
+#### High School — Algebra
 
-###### Reasoning with Equations and Inequalities
+##### Reasoning with Equations and Inequalities
 
 - **A-REI.D.11**: Explain why the x-coordinates of the points where the graphs of the equations _y = f(x)_ and _y = g(x)_ intersect are the solutions of the equation _f(x) = g(x)_; find the solutions approximately, e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where _f(x)_ and/or _g(x)_ are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.
 
-##### High School — Functions
+#### High School — Functions
 
-###### Interpreting Functions
+##### Interpreting Functions
 
 - **F-IF.B.4**: For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. _Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity._
 
@@ -58,7 +58,7 @@
 
 - **F-IF.C.7e**: Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude.
 
-###### Building Functions
+##### Building Functions
 
 - **F-BF.B.4b**: Verify by composition that one function is the inverse of another.
 
@@ -68,19 +68,19 @@
 
 - **F-BF.B.5**: Use the inverse relationship between exponents and logarithms to solve problems involving logarithms and exponents .
 
-#### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-#### Technology — Educational Technology
+### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-#### 21st Century Life and Careers
+### 21st Century Life and Careers
 
-##### Career Ready Practices
+#### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -94,15 +94,15 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-##### Career Awareness, Exploration, and Preparation
+#### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-### Learning expectations
+## Learning expectations
 
-#### Unit essential questions
+### Unit essential questions
 
 - What are the similarities and differences among transformations of all the parent functions?
 
@@ -112,7 +112,7 @@
 
 - How can we use functions to model and analyze a real-life situation?
 
-#### Unit enduring understanding (Understanding)
+### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -120,7 +120,7 @@ _Students will understand..._
 
 - Changes to a function in algebraic form result in predictable changes to its graph.
 
-#### Unit learning expectations (Knowledge)
+### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -130,7 +130,7 @@ _Students will know..._
 
 - The horizontal line test can be used to determine if a function has an inverse function.
 
-#### Unit learning expectations (Ability)
+### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -162,9 +162,9 @@ _Students will be able to..._
 
   - Determine the domain of the composition of two functions.
 
-### Evidence of learning
+## Evidence of learning
 
-#### Summative assessment
+### Summative assessment
 
 - Extended constructed response
 
@@ -174,7 +174,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-#### Formative assessments
+### Formative assessments
 
 - Extended constructed response (ECR) questions
 
@@ -196,7 +196,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-### Lesson plans
+## Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -204,9 +204,9 @@ _Students will be able to..._
 |Transformations of functions|5|
 |Function Operations         |5|
 
-### Teacher notes
+## Teacher notes
 
-#### Unit resources
+### Unit resources
 
 - Glencoe Precalculus © 2014
 
@@ -218,7 +218,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-#### Technology integrations
+### Technology integrations
 
 - Graphing calculator
 

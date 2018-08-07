@@ -1,8 +1,8 @@
-## Modifications
+# Modifications
 
-### Differentiation for target student groups
+## Differentiation for target student groups
 
-#### English Language Learners
+### English Language Learners
 
 - Allow electronic translator
 
@@ -12,7 +12,7 @@
 
 - Refer to NJDOE resources
 
-#### Special education
+### Special education
 
 - Modifications and accommodations as listed in the student’s IEP
 
@@ -28,7 +28,7 @@
 
 - Refer to NJDOE resources
 
-#### At-risk of failure
+### At-risk of failure
 
 - Provide extra help sessions
 
@@ -36,7 +36,7 @@
 
 - Refer student to Intervention and Referral for an action plan
 
-#### Gifted students
+### Gifted students
 
 - Increase depth of learning
 
@@ -44,9 +44,9 @@
 
 - Extend scope of topic
 
-### Modifications for activities
+## Modifications for activities
 
-#### Presentation accommodations
+### Presentation accommodations
 
 _Allow a student to..._
 
@@ -68,7 +68,7 @@ _Allow a student to..._
 
 - Be given a written list of instructions
 
-#### Response accommodations
+### Response accommodations
 
 _Allow a student to..._
 
@@ -84,7 +84,7 @@ _Allow a student to..._
 
 - Use a calculator or table of “math facts”
 
-#### Setting accommodations
+### Setting accommodations
 
 _Allow a student to..._
 
@@ -98,7 +98,7 @@ _Allow a student to..._
 
 - Use sensory tools such as an exercise band that can be looped around a chair’s legs (so fidgety kids can kick it and quietly get their energy out)
 
-#### Timing accommodations
+### Timing accommodations
 
 _Allow a student to..._
 
@@ -108,7 +108,7 @@ _Allow a student to..._
 
 - Take frequent breaks, such as after completing a task
 
-#### Scheduling accommodations
+### Scheduling accommodations
 
 _Allow a student to..._
 
@@ -120,7 +120,7 @@ _Allow a student to..._
 
 - Take a test at a specific time of day
 
-#### Organization skills accommodations
+### Organization skills accommodations
 
 _Allow a student to..._
 
@@ -132,7 +132,7 @@ _Allow a student to..._
 
 - Receive study skills instruction
 
-#### Assignment modifications
+### Assignment modifications
 
 _Allow a student to..._
 
@@ -144,7 +144,7 @@ _Allow a student to..._
 
 - Create alternate projects or assignments
 
-#### Curriculum modifications
+### Curriculum modifications
 
 _Allow a student to..._
 
@@ -154,7 +154,7 @@ _Allow a student to..._
 
 - Be excused from particular projects
 
-### Consider Method of Instruction
+## Consider Method of Instruction
 
 - Repeat directions
 

@@ -1,6 +1,6 @@
-## Unit 8: Limits
+# Unit 8: Limits
 
-### Unit Overview
+## Unit Overview
 
 - **Content area**: Precalculus
 
@@ -12,11 +12,11 @@
 
 - **Unit Summary**: This unit introduces limits and derivitives. Students will find limits numerically first, then move to algebraic approaches. They then will find instantaneous rates of change and derivitives.
 
-### New Jersey Student Learning Standards
+## New Jersey Student Learning Standards
 
-#### New Jersey Student Learning Standards for Mathematics
+### New Jersey Student Learning Standards for Mathematics
 
-##### Standards for Mathematical Practice
+#### Standards for Mathematical Practice
 
 - **MP1**: Make sense of problems and persevere in solving them.
 
@@ -34,9 +34,9 @@
 
 - **MP8**: Look for and express regularity in repeated reasoning.
 
-##### High School — Functions
+#### High School — Functions
 
-###### Interpreting Functions
+##### Interpreting Functions
 
 - **F-IF.B.4**: For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity.
 
@@ -44,23 +44,23 @@
 
 - **F-IF.C.7**: Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.
 
-###### Building Functions
+##### Building Functions
 
 - **F-BF.B.3**: Identify the effect on the graph of replacing _f(x)_ by _f(x) + k_, _k f(x)_, _f(kx)_, and _f(x + k)_ for specific values of _k_ (both positive and negative); find the value of _k_ given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. _Include recognizing even and odd functions from their graphs and algebraic expressions for them._
 
-#### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-#### Technology — Educational Technology
+### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-#### 21st Century Life and Careers
+### 21st Century Life and Careers
 
-##### Career Ready Practices
+#### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -74,21 +74,21 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-##### Career Awareness, Exploration, and Preparation
+#### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-### Learning expectations
+## Learning expectations
 
-#### Unit essential questions
+### Unit essential questions
 
 - What can the limit of a function tell us about the behavior of a function?
 
 - What is the importance of understanding the rate of change of a function, and how does the slope of the tangent line contribute to that understanding?
 
-#### Unit enduring understanding (Understanding)
+### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -96,7 +96,7 @@ _Students will understand..._
 
 - The slope of a line tangent to a graph can be found using limits.
 
-#### Unit learning expectations (Knowledge)
+### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -106,7 +106,7 @@ _Students will know..._
 
 - Differentiation is the process of finding the derivative of a function.
 
-#### Unit learning expectations (Ability)
+### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -139,9 +139,9 @@ _Students will be able to..._
   - Apply the alternate form of the derivative.
   - Determine when a derivative fails to exist.
 
-### Evidence of learning
+## Evidence of learning
 
-#### Summative assessment
+### Summative assessment
 
 - Extended constructed response
 
@@ -151,7 +151,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-#### Formative assessments
+### Formative assessments
 
 - Extended constructed response (ECR) questions
 
@@ -173,7 +173,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-### Lesson plans
+## Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -182,9 +182,9 @@ _Students will be able to..._
 |Infinite Limits and Limits at Infinity                              |5|
 |Limit Definition of the Derivative and the Tangent Line ProblemTOPIC|5|
 
-### Teacher notes
+## Teacher notes
 
-#### Unit resources
+### Unit resources
 
 - Glencoe Precalculus © 2014
 
@@ -196,7 +196,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-#### Technology integrations
+### Technology integrations
 
 - Graphing calculator
 

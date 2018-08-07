@@ -1,6 +1,6 @@
-## Unit 1: Applications of Trigonometric Functions
+# Unit 1: Applications of Trigonometric Functions
 
-### Unit Overview
+## Unit Overview
 
 - **Content area**: Precalculus
 
@@ -12,11 +12,11 @@
 
 - **Unit Summary**: This unit focuses on the trigonometric functions and how they apply to the unit circle and right triangles. Time is also spent on the laws of sines and cosines along with the graphs of trignometric functions and their inverses.
 
-### New Jersey Student Learning Standards
+## New Jersey Student Learning Standards
 
-#### New Jersey Student Learning Standards for Mathematics
+### New Jersey Student Learning Standards for Mathematics
 
-##### Standards for Mathematical Practice
+#### Standards for Mathematical Practice
 
 - **MP1**: Make sense of problems and persevere in solving them.
 
@@ -34,9 +34,9 @@
 
 - **MP8**: Look for and express regularity in repeated reasoning.
 
-##### High School — Functions
+#### High School — Functions
 
-###### Trigonometric Functions
+##### Trigonometric Functions
 
 - **F-TF.A.3**: Use special triangles to determine geometrically the values of sine, cosine, tangent for π/3, π/4 and π/6, and use the unit circle to express the values of sine, cosine, and tangent for _x_, π+_x_, and 2π–_x_ in terms of their values for _x_, where _x_ is any real number.
 
@@ -44,9 +44,9 @@
 
 - **F-TF.B.6**: Understand that restricting a trigonometric function to a domain on which it is always increasing or always decreasing allows its inverse to be constructed.
 
-##### High School — Geometry
+#### High School — Geometry
 
-###### Similarity, Right Triangles, and Trigonometry
+##### Similarity, Right Triangles, and Trigonometry
 
 - **G-SRT.D.9**: Derive the formula _A_ = 1/2 _ab_ sin(_C_) for the area of a triangle by drawing an auxiliary line from a vertex perpendicular to the opposite side.
 
@@ -54,19 +54,19 @@
 
 - **G-SRT.D.11**: Understand and apply the Law of Sines and the Law of Cosines to find unknown measurements in right and non-right triangles (e.g., surveying problems, resultant forces).
 
-#### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 9–10)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
 - **NJSLSA.R4**: Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.
 
-#### Technology — Educational Technology
+### Technology — Educational Technology
 
 - **8.1.12.B.2**: Apply previous content knowledge by creating and piloting a digital learning game or tutorial.
 
-#### 21st Century Life and Careers
+### 21st Century Life and Careers
 
-##### Career Ready Practices
+#### Career Ready Practices
 
 - **CRP2**: Apply appropriate academic and technical skills.
 
@@ -80,19 +80,19 @@
 
 - **CRP11**: Use technology to enhance productivity.
 
-##### Career Awareness, Exploration, and Preparation
+#### Career Awareness, Exploration, and Preparation
 
 - **9.2.12.C.1**: Review career goals and determine steps necessary for attainment.
 
 - **9.2.12.C.9**: Analyze the correlation between personal and financial behavior and employability.
 
-### Learning expectations
+## Learning expectations
 
-#### Unit essential questions
+### Unit essential questions
 
 - What are the characteristics of the real-life problems that can be modeled by trigonometric functions?
 
-#### Unit enduring understanding (Understanding)
+### Unit enduring understanding (Understanding)
 
 _Students will understand..._
 
@@ -100,7 +100,7 @@ _Students will understand..._
 
 - Graphs of trigonometric functions are periodic and can be used to model real-world situations of a periodic nature.
 
-#### Unit learning expectations (Knowledge)
+### Unit learning expectations (Knowledge)
 
 _Students will know..._
 
@@ -110,7 +110,7 @@ _Students will know..._
 
 - Inverse trigfunction have a restricted domain due to trig functions having perodicity.
 
-#### Unit learning expectations (Ability)
+### Unit learning expectations (Ability)
 
 _Students will be able to..._
 
@@ -164,9 +164,9 @@ _Students will be able to..._
 
   - Evaluate compositions of trigonometric and/or inverse trigonometric functions.
 
-### Evidence of learning
+## Evidence of learning
 
-#### Summative assessment
+### Summative assessment
 
 - Extended constructed response
 
@@ -176,7 +176,7 @@ _Students will be able to..._
 
 - _Alternate assessment_: Performance task
 
-#### Formative assessments
+### Formative assessments
 
 - Extended constructed response (ECR) questions
 
@@ -198,7 +198,7 @@ _Students will be able to..._
 
 - District formative assessments
 
-### Lesson plans
+## Lesson plans
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
@@ -208,9 +208,9 @@ _Students will be able to..._
 |Graphs of Trig functions       |5|
 |Inverse Trigonometric Functions|5|
 
-### Teacher notes
+## Teacher notes
 
-#### Unit resources
+### Unit resources
 
 - Holt McDougal Algebra 2 © 2012
 
@@ -222,7 +222,7 @@ _Students will be able to..._
 
   - [Communication and Collaboration](http://www.p21.org/about-us/p21-framework/261)
 
-#### Technology integrations
+### Technology integrations
 
 - Graphing calculator
 
