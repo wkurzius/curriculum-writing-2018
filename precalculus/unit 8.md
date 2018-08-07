@@ -48,7 +48,7 @@
 
 - **F-BF.B.3**: Identify the effect on the graph of replacing _f(x)_ by _f(x) + k_, _k f(x)_, _f(kx)_, and _f(x + k)_ for specific values of _k_ (both positive and negative); find the value of _k_ given the graphs. Experiment with cases and illustrate an explanation of the effects on the graph using technology. _Include recognizing even and odd functions from their graphs and algebraic expressions for them._
 
-### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 11–12)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
@@ -177,10 +177,10 @@ _Students will be able to..._
 
 | Topic | Timeframe (days) |
 |-------|:----------------:|
-|Finding Limits Graphically, Numerically, and Analytically           |5|
-|Continuity and One-Sided Limits                                     |5|
-|Infinite Limits and Limits at Infinity                              |5|
-|Limit Definition of the Derivative and the Tangent Line ProblemTOPIC|5|
+|Finding Limits Graphically, Numerically, and Analytically      |5|
+|Continuity and One-Sided Limits                                |5|
+|Infinite Limits and Limits at Infinity                         |5|
+|Limit Definition of the Derivative and the Tangent Line Problem|5|
 
 ## Teacher notes
 

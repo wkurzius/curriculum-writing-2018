@@ -64,7 +64,7 @@
 
 - **S-MD.B.5a**: Find the expected payoff for a game of chance. _For example, find the expected winnings from a state lottery ticket or a game at a fast food restaurant._
 
-### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 11–12)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

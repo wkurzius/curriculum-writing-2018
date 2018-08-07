@@ -50,7 +50,7 @@
 
 - **A-SSE.B.3c**: Use the properties of exponents to transform expressions for exponential functions. _For example the expression 1.15^t can be rewritten as (1.15^(1/12))^12t ≈ 1.012^12t to reveal the approximate equivalent monthly interest rate if the annual rate is 15%._
 
-### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 11–12)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

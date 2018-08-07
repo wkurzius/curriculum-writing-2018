@@ -46,7 +46,7 @@
 
 - **S-CP.B.7**: Apply the Addition Rule, _P(A_ or _B) = P(A) + P(B) – P(A_ and _B)_, and interpret the answer in terms of the model.
 
-### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 11–12)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 

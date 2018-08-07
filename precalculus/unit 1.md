@@ -54,7 +54,7 @@
 
 - **G-SRT.D.11**: Understand and apply the Law of Sines and the Law of Cosines to find unknown measurements in right and non-right triangles (e.g., surveying problems, resultant forces).
 
-### English Language Arts Companion Standards (Grade 9–10)
+### English Language Arts Companion Standards (Grade 11–12)
 
 - **NJSLSA.R1**: Read closely to determine what the text says explicitly and to make logical inferences and relevant connections from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.
 
